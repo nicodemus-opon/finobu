@@ -5,7 +5,7 @@
 
         <div class="navbar-translate">
             <a class="navbar-brand" href="index.php" rel="tooltip" title="GariMax Motors Ltd Home Page" data-placement="bottom" >
-                    NICOPOS
+                    Finobu
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
