@@ -19,57 +19,7 @@
             }
         }
     </script>
-    <!-- seo-->
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@id": "https://garimax.co.ke/#organization",
-            "@type": "LocalBusiness",
-            "name": "Garimax Motors Ltd",
-            "telephone": "0733626262",
-            "legalName": "Garimax Motors Ltd",
-            "brand": "Garimax Motors",
-            "alternateName": "Garimax Motors",
-            "url": "https://garimax.co.ke",
-            "priceRange": "50000-1.5M",
-            "logo": "https://garimax.co.ke/assets/img/favicon.png",
-            "openingHoursSpecification": {
-                "@type": "OpeningHoursSpecification",
-                "dayOfWeek": {
-                    "@type": "DayOfWeek",
-                    "name": "Mon - Fri, 8:00-22:00"
-                }
-            },
-            "image": [
-                "https://garimax.co.ke/cars/1/i3.jpeg",
-                "https://garimax.co.ke/cars/2/i9.jpeg",
-                "https://garimax.co.ke/cars/3/i3.jpeg"
-            ],
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "Warehouse 41  at Gateway mall",
-                "addressLocality": "Chaddy road,Off Mombasa rd ",
-                "addressRegion": "Syiokimau",
-                "postalCode": "10001",
-                "addressCountry": "KENYA"
-            },
-            "sameAs": [
-                "https://www.instagram.com/garimax/",
-                "https://www.facebook.com/garimax",
-                "https://twitter.com/garimax"
-            ],
-            "contactPoint": [
-                {
-                    "@type": "ContactPoint",
-                    "telephone": "+254733626262",
-                    "contactType": "sales",
-                    "areaServed": [
-                        "KE"
-                    ]
-                }
-            ]
-        }
-    </script>
+    
     <!--  Social tags      -->
     <meta name="keywords"
           content="Garimax, Gari Max, Car dealership Kenya, used cars,cheap,quality,garimax motors,cars,kenya,garimax motors ltd">
