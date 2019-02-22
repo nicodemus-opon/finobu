@@ -5,7 +5,7 @@
 
         <div class="navbar-translate">
             <a class="navbar-brand" href="index.php" rel="tooltip" title="GariMax Motors Ltd Home Page" data-placement="bottom" >
-                <img class="img img-raised rounded" src="./assets/img/favicon.png">  Finobu
+                <img class="img " src="./assets/img/favicon.png">  Finobu
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
