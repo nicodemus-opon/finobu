@@ -4,7 +4,7 @@
 
 
         <div class="navbar-translate">
-            <a class="navbar-brand" href="index.php" rel="tooltip" title="GariMax Motors Ltd Home Page" data-placement="bottom" >
+            <a class="navbar-brand" href="../" rel="tooltip" title="GariMax Motors Ltd Home Page" data-placement="bottom" >
                 <img class="img " src="../assets/img/favicon.png" style="height: 25px"> <b> Finobu</b>
             </a>
 
