@@ -15,7 +15,7 @@ include('includes/navbar.php');
                 <div class="jumbotron bg-transparent">
                     <h1>Finance tools to grow your business</h1>
                     <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p>
-                    <p><a class="btn btn-primary" role="button" href="#">Learn more</a></p>
+                    <p><a class="btn btn-primary" role="button" href="#">Get Started</a></p>
                 </div>
             </div>
             <div class="col-md-6"><img class="img" src="assets/marginalia-productive-work.png"></div>

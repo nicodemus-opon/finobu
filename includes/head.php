@@ -2,23 +2,33 @@
 <html lang="en">
 
 <head>
-    <title>Finobu | Software for SME's</title>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Corporation",
+            "name": "Finobu",
+            "description": "Finobu is a sowftware company that ",
+            "image": "https://www.finobu.com/assets/img/logo2.png",
+            "logo": "https://www.finobu.com/assets/img/logo2.png",
+            "url": "https://www.finobu.com",
+            "telephone": "0727680698",
+            "sameAs": ["https://twitter.com/finobutools","https://facebook.com/finobu"],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Nairobi, Kenya",
+                "addressLocality": "Nairobi",
+                "postalCode": "01000",
+                "addressCountry": "Kenya"
+            }
+        }
+    </script>
+
+    <title>Finobu | Finance tools for SME's</title>
     <meta charset="utf-8"/>
     <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/favicoon.png">
     <link rel="icon" type="image/png" href="./assets/img/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "WebSite",
-            "url": "https://garimax.co.ke",
-            "potentialAction": {
-                "@type": "SearchAction",
-                "target": "https://garimax.co.ke/browse.php?q={search_term_string}",
-                "query-input": "required name=search_term_string"
-            }
-        }
-    </script>
+
 
     <!--  Social tags      -->
     <meta name="keywords"
