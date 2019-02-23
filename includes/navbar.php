@@ -38,7 +38,7 @@
                 <li class="nav-item dropdown">
                     <a href="browse.php" class="nav-link dropdown-togglev" id="navbarDropdownMenuLink">
                         <i class="now-ui-icons files_single-copy-04" aria-hidden="true"></i>
-                        <p>BROWSE ALL CARS</p>
+                        <p>Pricing</p>
                     </a>
 
                 </li>
