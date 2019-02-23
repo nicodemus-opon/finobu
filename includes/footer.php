@@ -1,104 +1,101 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: nico
- * Date: 2019-01-03
- * Time: 17:43
- */
-?>
-
-<footer class="footer footer-whitee footer-big" data-background-color="black">
+<footer class="footer footer-white footer-big">
     <div class="container">
 
         <div class="content">
             <div class="row">
 
                 <div class="col-md-3">
-                    <a href="index.php"><h5>Garimax Motors Ltd</h5></a>
-                    <p>GariMax Motors ltd, imports and sells Quality Used cars from Australia, Britain and Japan. Any car needs? we are here at your service</p>
+                    <a ><h5>Finobu tools</h5></a>
+                    <p>Probably the best UI Kit in the world! We know you've been waiting for it, so don't be shy!</p>
                 </div>
                 <div class="col-md-2">
-                    <h5><b>About</b></h5>
+                    <h5>About</h5>
                     <ul class="links-vertical">
                         <li>
-                            <a href="index.php">
-                                Home
+                            <a href="#pablo">
+                                Blog
                             </a>
                         </li>
                         <li>
-                            <a href="aboutus.php">
+                            <a href="#pablo">
                                 About Us
                             </a>
                         </li>
-
                         <li>
-                            <a href="index.php#contactx">
+                            <a href="#pablo">
+                                Presentation
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#pablo">
                                 Contact Us
                             </a>
                         </li>
                     </ul>
                 </div>
                 <div class="col-md-2">
-                    <h5><b>Cars</b></h5>
+                    <h5>Market</h5>
                     <ul class="links-vertical">
-
                         <li>
-                            <a href="index.php#cars">
-                                Latest Offers
+                            <a href="#pablo">
+                                Sales FAQ
                             </a>
                         </li>
                         <li>
-                            <a href="index.php#manufacturers">
-                                Manufacturers
+                            <a href="#pablo">
+                                How to Register
                             </a>
                         </li>
                         <li>
-                            <a href="browse.php">
-                                Browse All cars
+                            <a href="#pablo">
+                                Sell Goods
                             </a>
                         </li>
                         <li>
-                            <a href="categories.php">
-                                categories
+                            <a href="#pablo">
+                                Receive Payment
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#pablo">
+                                Transactions Issues
                             </a>
                         </li>
                     </ul>
                 </div>
 
                 <div class="col-md-2">
-                    <h5><b>Working Hours</b></h5>
+                    <h5>Legal</h5>
                     <ul class="links-vertical">
                         <li>
-
-                                Mon - Fri : 9:00 am - 7:00 pm
-
+                            <a href="#pablo">
+                                Transactions FAQ
+                            </a>
                         </li>
                         <li>
-
-                                Sat: 10:00 am - 7:00 pm
-
+                            <a href="#pablo">
+                                Terms &amp; Conditions
+                            </a>
                         </li>
                         <li>
-
-                                Sun: 12 Noon - 7:00 pm
-
+                            <a href="#pablo">
+                                Licenses
+                            </a>
                         </li>
-
-
                     </ul>
                 </div>
                 <div class="col-md-3">
                     <h5>Subscribe to Newsletter</h5>
                     <p>
-                        Join our newsletter and get news in your inbox !
+                        Join our newsletter and get news in your inbox every week! We hate spam too, so no worries about this.
                     </p>
-                    <form class="form form-newsletter" method="post" action="https://formspree.io/sales@garimax.co.ke">
+                    <form class="form form-newsletter" method="" action="">
                         <div class="form-group">
-                            <input type="email" name="subscription_email" class="form-control" placeholder="Your Email...">
+                            <input type="email" class="form-control" placeholder="Your Email...">
                         </div>
 
-                        <button type="submit"class="btn btn-primary btn-icon btn-round" name="button">
-                            <i class="now-ui-icons ui-1_email-85"></i>
+                        <button type="button" class="btn btn-primary btn-icon btn-round" name="button">
+                            <i class="now-ui-icons ui-1_send"></i>
                         </button>
                     </form>
                 </div>
@@ -106,34 +103,10 @@
             </div>
         </div>
 
-        <hr>
 
-        <ul class="social-buttons">
-            <li>
-                <a href="#pablo" class="btn btn-icon  btn-twitter btn-lg">
-                    <i class="fab fa-twitter"></i>
-                </a>
-            </li>
-            <li>
-                <a href="#pablo" class="btn btn-icon  btn-facebook btn-lg">
-                    <i class="fab fa-facebook-square"></i>
-                </a>
-            </li>
-
-            <li>
-                <a href="#pablo" class="btn btn-icon  btn-google btn-lg">
-                    <i class="fab fa-google-plus"></i>
-                </a>
-            </li>
-            <li>
-                <a href="#pablo" class="btn btn-icon  btn-youtube btn-lg">
-                    <i class="fab fa-youtube"></i>
-                </a>
-            </li>
-        </ul>
 
         <div class="copyright pull-center">
-            Copyright © <script>document.write(new Date().getFullYear())</script> Garimax Motors All Rights Reserved.
+            Copyright © <script>document.write(new Date().getFullYear())</script> Finobu All Rights Reserved.
         </div>
     </div>
 </footer>
