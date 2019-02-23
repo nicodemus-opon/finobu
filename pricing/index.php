@@ -1,6 +1,6 @@
 <?php
-include('../includes/head.php');
-include('../includes/navbar.php');
+include('.../includes/head.php');
+include('.../includes/navbar.php');
 ?>
 
 <div class="pricing-2">
@@ -99,7 +99,7 @@ include('../includes/navbar.php');
 
 
 <?php
-include('../includes/footer.php');
-include('../includes/end.php');
+include('.../includes/footer.php');
+include('.../includes/end.php');
 
 ?>
