@@ -36,7 +36,7 @@
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a href="browse.php" class="nav-link dropdown-togglev" id="navbarDropdownMenuLink">
+                    <a href="pricing" class="nav-link dropdown-togglev" id="navbarDropdownMenuLink">
                         <i class="now-ui-icons files_single-copy-04" aria-hidden="true"></i>
                         <p>Pricing</p>
                     </a>
