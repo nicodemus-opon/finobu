@@ -18,7 +18,7 @@ include('includes/navbar.php');
                     <p><a class="btn btn-primary" role="button" href="#">Get Started</a></p>
                 </div>
             </div>
-            <div class="col-md-6"><img class="img" srci="assets/marginalia-productive-work.png" srci="assets/img/solo.png"></div>
+            <div class="col-md-6"><img class="img" srci="assets/marginalia-productive-work.png" src="assets/img/solo.png"></div>
         </div>
         </div>
         </div>
