@@ -42,11 +42,11 @@
     <link rel="stylesheet" href="" integrity="" crossorigin="anonymous">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet"/>
     <!-- NOW UI Kit CSS -->
-    <link rel="stylesheet" href="./assets/css/now-ui-kit.min.css">
-    <link rel="stylesheet" href="./assets/aos.css">
-    <link href="./assets/hover/css/hover-min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../assets/css/now-ui-kit.min.css">
+    <link rel="stylesheet" href="../assets/aos.css">
+    <link href="../assets/hover/css/hover-min.css" rel="stylesheet">
     <!--Start of Tawk.to Script-->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <!--link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"-->
 
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
