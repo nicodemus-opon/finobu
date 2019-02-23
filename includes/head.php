@@ -40,7 +40,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="" integrity="" crossorigin="anonymous">
-    <link href="./assets/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="../assets/css/bootstrap.min.css" rel="stylesheet"/>
     <!-- NOW UI Kit CSS -->
     <link rel="stylesheet" href="./assets/css/now-ui-kit.min.css">
     <link rel="stylesheet" href="./assets/aos.css">
