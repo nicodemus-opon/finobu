@@ -24,6 +24,7 @@
     </script>
 
     <title>Finobu | Finance tools for SME's</title>
+    <meta name="Description" content="Finobu offers a range of finance tools for small and medium enterprises. ranging from freelance businesses,saloons,shops ,clinics">
     <meta charset="utf-8"/>
     <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/favicon.png">
     <link rel="icon" type="image/png" href="./assets/img/favicon.png">
