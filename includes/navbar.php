@@ -28,12 +28,20 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink1">
                         <a class="dropdown-item" href="./index.html">
-                            <i class="now-ui-icons business_chart-pie-36"></i>
-                            All components
+                            <i class="now-ui-icons arrows-1_minimal-right"></i>
+                            Solo
                         </a>
-                        <a class="dropdown-item" target="_blank" href="./docs/1.0/getting-started/introduction.html">
-                            <i class="now-ui-icons design_bullet-list-67"></i>
-                            Documentation
+                        <a class="dropdown-item" href="./index.html">
+                            <i class="now-ui-icons arrows-1_minimal-right"></i>
+                            Mopos
+                        </a>
+                        <a class="dropdown-item" href="./index.html">
+                            <i class="now-ui-icons arrows-1_minimal-right"></i>
+                            Teta
+                        </a>
+                        <a class="dropdown-item" href="./index.html">
+                            <i class="now-ui-icons arrows-1_minimal-right"></i>
+                            Sacco
                         </a>
                     </div>
                 </li>

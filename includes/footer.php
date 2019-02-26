@@ -6,7 +6,7 @@
 
                 <div class="col-md-3">
                     <a ><h5>Finobu tools</h5></a>
-                    <p>Probably the best UI Kit in the world! We know you've been waiting for it, so don't be shy!</p>
+                    <p>All you will ever need for your business!</p>
                 </div>
 
                 <div class="col-md-2">
