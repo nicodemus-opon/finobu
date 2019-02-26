@@ -4,11 +4,13 @@
 
 
         <div class="navbar-translate">
-            <a class="navbar-brand" href="../" rel="tooltip" title="GariMax Motors Ltd Home Page" data-placement="bottom" >
+            <a class="navbar-brand" href="../" rel="tooltip" title="Finobu Software Ltd Home Page"
+               data-placement="bottom">
                 <img class="img " src="../assets/img/favicon.png" style="height: 25px"> <b> Finobu</b>
             </a>
 
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+                    aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-bar top-bar"></span>
                 <span class="navbar-toggler-bar middle-bar"></span>
                 <span class="navbar-toggler-bar bottom-bar"></span>
@@ -19,7 +21,8 @@
             <ul class="navbar-nav ml-auto">
 
                 <li class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink1" data-toggle="dropdown" aria-expanded="false">
+                    <a href="#" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink1" data-toggle="dropdown"
+                       aria-expanded="false">
                         <i class="now-ui-icons design_app"></i>
                         <p>Products</p>
                     </a>
@@ -45,8 +48,8 @@
 
 
                 <li class="nav-item">
-                    <a class="nav-link btn btn-neutral btn-round ccc" href="tel:0733626262" target="_blank">
-                        <p><i class="now-ui-icons tech_mobile"></i> Sign Up</p>
+                    <a class="nav-link btn btn-neutral btn-roundi ccc" href="tel:0733626262" target="_blank">
+                        <i class="now-ui-icons business_briefcase-24"></i> <p> Sign Up</p>
                     </a>
                 </li>
 

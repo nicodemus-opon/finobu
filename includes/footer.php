@@ -8,6 +8,33 @@
                     <a ><h5>Finobu tools</h5></a>
                     <p>Probably the best UI Kit in the world! We know you've been waiting for it, so don't be shy!</p>
                 </div>
+
+                <div class="col-md-2">
+                    <h5>Products</h5>
+                    <ul class="links-vertical">
+                        <li>
+                            <a href="#pablo">
+                                Solo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#pablo">
+                                mopos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#pablo">
+                                Teta
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#pablo">
+                                Sacco
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
                 <div class="col-md-2">
                     <h5>About</h5>
                     <ul class="links-vertical">
@@ -23,63 +50,29 @@
                         </li>
                         <li>
                             <a href="#pablo">
-                                Presentation
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#pablo">
                                 Contact Us
                             </a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-md-2">
-                    <h5>Market</h5>
-                    <ul class="links-vertical">
-                        <li>
-                            <a href="#pablo">
-                                Sales FAQ
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#pablo">
-                                How to Register
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#pablo">
-                                Sell Goods
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#pablo">
-                                Receive Payment
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#pablo">
-                                Transactions Issues
-                            </a>
-                        </li>
-                    </ul>
-                </div>
+
 
                 <div class="col-md-2">
-                    <h5>Legal</h5>
+                    <h5>Partner with us</h5>
                     <ul class="links-vertical">
                         <li>
                             <a href="#pablo">
-                                Transactions FAQ
+                                Projects
                             </a>
                         </li>
                         <li>
                             <a href="#pablo">
-                                Terms &amp; Conditions
+                                Recruitment
                             </a>
                         </li>
                         <li>
                             <a href="#pablo">
-                                Licenses
+                                Affiliate Program
                             </a>
                         </li>
                     </ul>
