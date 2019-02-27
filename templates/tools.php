@@ -15,12 +15,12 @@
                                 <div class="card-avatar">
 
                                         <img class="imgm img-raisedm" src="assets/img/logo2.png">
-                                    
+
                                 </div>
 
                                 <h6 class="category text-gray">Growth Hacker</h6>
 
-                                <h4 class="card-title">Olivia Thompson</h4>
+                                <h4 class="card-title">Finobu Solo</h4>
 
                                 <p class="card-description">
                                     "Work hard play harder."
