@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-    <meta property="og:title" content="Toyota Hiace Van">
-    <meta property="og:description" content="We offer bank financing and Hire purchase with a maximum duration of 12months">
-    <meta property="og:image" content="https://garimax.co.ke/dashboard/vehicles/Vans475964/img3.jpeg">
-    <meta property="og:url" content="https://garimax.co.ke/product.php?q=Vans475964">
-    <meta name="twitter:card" content="We offer bank financing and Hire purchase with a maximum duration of 12months">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://finobu.com/assets/img/logo2.png">
+    <meta property="og:url" content="">
+    <meta name="twitter:card" content="">
 
     <script type="application/ld+json">
         {

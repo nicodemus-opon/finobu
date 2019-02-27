@@ -54,6 +54,14 @@
         $(".ccc").addClass("btn-primary");
     });
 </script>
+<script>
+    $("meta[property='og:title']").attr("content", document.title);
+    $("meta[property='og:url']").attr("content", location.toString());
+    var desc = $("meta[name='Description']").attr("content");
+    console.log(desc);
+    $("meta[property='og:description']").attr("content", desc);
+    $("meta[name='twitter:card']").attr("content", desc);
+</script>
 </body>
 
 </html>
