@@ -13,7 +13,7 @@
                         <div class="card card-profile">
                             <div class="card-body">
                                 <div class="card-avatar">
-                                    <a href="#pablo">
+                                    <a >
                                         <img class="imgm img-raisedm" src="assets/img/logo2.png">
                                     </a>
                                 </div>
