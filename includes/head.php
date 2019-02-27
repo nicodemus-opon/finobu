@@ -2,11 +2,15 @@
 <html lang="en">
 
 <head>
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@finobutools" />
+    <meta name="twitter:creator" content="@finobutools" />
     <meta property="og:title" content="">
     <meta property="og:description" content="">
     <meta property="og:image" content="https://finobu.com/assets/img/logo2.png">
     <meta property="og:url" content="">
     <meta name="twitter:card" content="">
+
 
     <script type="application/ld+json">
         {
