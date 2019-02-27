@@ -9,59 +9,26 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-md-6">
-
-                        <div class="card card-background" style="background-image: url('assets/img/soloo.jpg')">
-
+                    <div class="col-md-6 col-lg-3">
+                        <div class="card card-profile">
                             <div class="card-body">
-                                <div class="card-title text-left">
-                                    <h3><a href="#" class="text-white">Finobu Solo</a></h3>
-                                    <h5> Provides an all round tool for freelancers and studios
-                                    , includes invoice tools, expense tracking and Proposal management and many more tools
-                                        ...</h5>
+                                <div class="card-avatar">
+                                    <a href="#pablo">
+                                        <img class="img img-raised" src="assets/img/olivia.jpg">
+                                    </a>
                                 </div>
 
-                                <!-- div class="card-footer text-left">
-                                    <div class="stats">
-											<span>
-												<i class="now-ui-icons media-2_sound-wave"></i>SPACE.com
-											</span>
+                                <h6 class="category text-gray">Growth Hacker</h6>
 
-                                        <span>
-												<i class="now-ui-icons tech_watch-time"></i> 20min ago
-											</span>
-                                    </div>
+                                <h4 class="card-title">Olivia Thompson</h4>
 
-                                    <div class="stats-link pull-right">
-                                        <a href="#pablo" class="footer-link">Environment</a>
-                                    </div>
-                                </div-->
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="card card-background" style="background-image: url('assets/img/bg3.jpg')">
-
-                            <div class="card-body">
-                                <div class="card-title text-left">
-                                    <h3>How wild Animals live in the National Forest</h3>
-                                </div>
-
-                                <div class="card-footer text-left">
-                                    <div class="stats-link">
-                                        <a href="#pablo" class="footer-link">Environment</a>
-                                    </div>
-
-                                    <div class="stats stats-right">
-											<span>
-												<i class="now-ui-icons media-2_sound-wave"></i>SPACE.com
-											</span>
-
-                                        <span>
-												<i class="now-ui-icons tech_watch-time"></i> 20min ago
-											</span>
-                                    </div>
+                                <p class="card-description">
+                                    "Work hard play harder."
+                                </p>
+                                <div class="card-footer">
+                                    <a href="#pablo" class="btn btn-icon btn-primary btn-simple btn-round"><i class="fab fa-twitter"></i></a>
+                                    <a href="#pablo" class="btn btn-icon  btn-primary btn-simple btn-round"><i class="fab fa-facebook-square"></i></a>
+                                    <a href="#pablo" class="btn btn-icon  btn-primary btn-simple btn-round"><i class="fab fa-google"></i></a>
                                 </div>
                             </div>
                         </div>
