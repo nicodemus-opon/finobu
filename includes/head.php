@@ -2,6 +2,12 @@
 <html lang="en">
 
 <head>
+    <meta property="og:title" content="Toyota Hiace Van">
+    <meta property="og:description" content="We offer bank financing and Hire purchase with a maximum duration of 12months">
+    <meta property="og:image" content="https://garimax.co.ke/dashboard/vehicles/Vans475964/img3.jpeg">
+    <meta property="og:url" content="https://garimax.co.ke/product.php?q=Vans475964">
+    <meta name="twitter:card" content="We offer bank financing and Hire purchase with a maximum duration of 12months">
+
     <script type="application/ld+json">
         {
             "@context": "http://schema.org",
@@ -55,7 +61,20 @@
             s0.parentNode.insertBefore(s1,s0);
         })();
     </script>
-
+<style>
+    .flot {
+        -webkit-animation: action 1s infinite  alternate;
+        animation: action 1s infinite  alternate;
+    }
+    @-webkit-keyframes action {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(-10px); }
+    }
+    @keyframes action {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(-10px); }
+    }
+</style>
     
 </head>
 

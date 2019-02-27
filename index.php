@@ -18,10 +18,10 @@ include('includes/navbar.php');
                         <p><a class="btn btn-primary" role="button" href="#">Get Started</a> or <a class="btn-linkm " href="#u"> sign in</a></p>
                     </div>
                 </div>
-                <div class="col-md-7" style="">
+                <div class="col-md-7 floto" style="">
                     <img wnidth="760px" hbeight="600px" class="img img-responsive"
-                                                    srci="assets/marginalia-productive-work.png"
-                                                    src="assets/fogg/fogg-premium-upgrade-1.png">
+                                                    src="assets/ill.png"
+                                                    srci="assets/fogg/fogg-premium-upgrade-1.png">
                 </div>
             </div>
         </div>
