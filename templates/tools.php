@@ -14,7 +14,7 @@
                             <div class="card-body">
                                 <div class="card-avatar">
                                     <a href="#pablo">
-                                        <img class="img img-raised" src="assets/img/logo2.png">
+                                        <img class="imgm img-raisedm" src="assets/img/logo2.png">
                                     </a>
                                 </div>
 
