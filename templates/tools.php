@@ -13,9 +13,9 @@
                         <div class="card card-profile">
                             <div class="card-body">
                                 <div class="card-avatar">
-                                    <a >
+
                                         <img class="imgm img-raisedm" src="assets/img/logo2.png">
-                                    </a>
+                                    
                                 </div>
 
                                 <h6 class="category text-gray">Growth Hacker</h6>
