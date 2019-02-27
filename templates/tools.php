@@ -18,7 +18,7 @@
 
                                 </div>
 
-                                <h6 class="category text-gray">Growth Hacker</h6>
+
 
                                 <h4 class="card-title">Finobu Solo</h4>
 
@@ -26,9 +26,7 @@
                                     "Work hard play harder."
                                 </p>
                                 <div class="card-footer">
-                                    <a href="#pablo" class="btn btn-icon btn-primary btn-simple btn-round"><i class="fab fa-twitter"></i></a>
-                                    <a href="#pablo" class="btn btn-icon  btn-primary btn-simple btn-round"><i class="fab fa-facebook-square"></i></a>
-                                    <a href="#pablo" class="btn btn-icon  btn-primary btn-simple btn-round"><i class="fab fa-google"></i></a>
+                                    
                                 </div>
                             </div>
                         </div>
