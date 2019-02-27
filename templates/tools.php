@@ -26,7 +26,7 @@
                                     "Work hard play harder."
                                 </p>
                                 <div class="card-footer">
-                                    <a href="tools.php" class="btn btn-primary btn-round"></a>
+                                    <a href="tools.php" class="btn btn-primary btn-round"> Get Started</a>
                                 </div>
                             </div>
                         </div>
