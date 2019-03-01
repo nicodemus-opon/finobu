@@ -35,7 +35,7 @@
         }
     </script>
 
-    
+
     <meta name="Description"
           content="Finobu offers a range of finance tools for small and medium enterprises. ranging from freelance businesses,saloons,shops ,clinics">
     <meta charset="utf-8"/>
