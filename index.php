@@ -1,3 +1,4 @@
+<title>Finobu | Finance tools for SME's</title>
 <?php
 include('includes/head.php');
 include('includes/navbar.php');
