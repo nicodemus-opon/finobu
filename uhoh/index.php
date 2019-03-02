@@ -17,7 +17,7 @@ include('../includes/head.php');
         <div class="row text-center">
             <div class="col-4"></div>
             <div class="col-4"><img wnidth="760px" hbeight="600px" class="img img-responsive"
-                                    src="./../assets/fogg/fogg-fatal-error-2.png"
+                                    src="./../assets/fogg/fogg-fatal-error-3.png"
                                     srci="assets/fogg/fogg-"></div>
             <div class="col-4"></div>
 
