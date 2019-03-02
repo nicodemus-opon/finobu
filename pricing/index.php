@@ -54,7 +54,7 @@ include('../includes/navbar.php');
                             <li><b>Unlimited</b> subdomains</li>
                         </ul>
                         <a href="#pablo" class="btn btn-neutral btn-round">
-                            Sign Up
+                            Start free trial
                         </a>
                     </div>
                 </div>
@@ -76,7 +76,7 @@ include('../includes/navbar.php');
                             <li><b>Unlimited</b> subdomains</li>
                         </ul>
                         <a href="#pablo" class="btn btn-primary btn-round">
-                            Get Started
+                            Start free trial
                         </a>
                     </div>
                 </div>
