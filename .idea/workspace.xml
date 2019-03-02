@@ -31,7 +31,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/agit/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="150">
               <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
             </state>
           </provider>
@@ -156,12 +156,12 @@
       <workItem from="1551018782861" duration="10462000" />
       <workItem from="1551429954849" duration="877000" />
       <workItem from="1551461517597" duration="606000" />
-      <workItem from="1551503080587" duration="5607000" />
+      <workItem from="1551503080587" duration="5853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30249000" />
+    <option name="totallyTimeSpent" value="30495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -265,7 +265,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/agit/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
+        <state relative-caret-position="150">
           <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
