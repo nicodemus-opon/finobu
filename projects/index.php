@@ -17,7 +17,6 @@ include('./../includes/navbar.php');
                     </div>
                 </div>
                 <div class="col-md-7">
-                    <h6 class="category text-info mt-3">Enterprise</h6>
                     <h3 class="card-title">
                         <a href="agit">Agit</a>
                     </h3>
