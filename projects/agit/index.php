@@ -8,7 +8,7 @@ include('../../includes/navbar.php');
 
 </div><!-- end header -->
 
-<div class="wrapper" style="padding-top: 120px">
+<div class="wrapper" style="padding-top: 50px">
 
     <section>
         <h1 id="-agit"><strong>♖ AGIT</strong></h1>
