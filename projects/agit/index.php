@@ -1,7 +1,13 @@
+<title>Finobu | Projects Agit</title>
 <?php
-/**
- * Created by PhpStorm.
- * User: nico
- * Date: 2019-03-02
- * Time: 10:07
- */
+include('includes/head.php');
+include('includes/navbar.php');
+?>
+
+
+
+<?php
+include('includes/footer.php');
+include('includes/end.php');
+
+?>
