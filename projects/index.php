@@ -22,7 +22,7 @@ include('./../includes/navbar.php');
                     </h3>
                     <p class="card-description">
                     <ul class="list-group list-group-flush">
-                        <li  class="list-group-item"><a href="agit">Agit </a>Agit is a CLI for automating Git Processes</li>
+                        <li  class="list-group-item"><a href="agit"> <b>Agit </b>is a CLI for automating Git Processes</a></li>
 
                     </ul>
                     </p>
