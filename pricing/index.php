@@ -49,7 +49,7 @@ include('../includes/navbar.php');
 
                         <ul>
                             <li><b>5GB</b> Jibu Forms</li>
-                            <li><b>50GB</b> Monthly Bandwidth</li>
+                            <li><b>50GB</b> Solo</li>
                             <li><b>10</b> Email Accounts</li>
                             <li><b>Unlimited</b> subdomains</li>
                         </ul>
