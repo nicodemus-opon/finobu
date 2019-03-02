@@ -13,7 +13,7 @@ include('./../includes/navbar.php');
             <div class="row">
                 <div class="col-md-5">
                     <div class="card-image">
-                        <img class="img img-raised rounded" src="./../assets/img/favicon.png">
+                        <img class="img img-raised rounded" src="./../assets/fogg/">
                     </div>
                 </div>
                 <div class="col-md-7">
