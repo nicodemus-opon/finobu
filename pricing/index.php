@@ -34,7 +34,7 @@ include('../includes/navbar.php');
                             <li><b>1 GB</b> Storage</li>
 
                         </ul>
-                        <a href="#pablo" class="btn btn-block btn-primary btn-round">
+                        <a href="#pablo" class="btn btn-primary btn-round">
                             Sign Up
                         </a>
                     </div>
