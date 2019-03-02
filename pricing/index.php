@@ -51,8 +51,8 @@ include('../includes/navbar.php');
                             <li><b>Unlimited</b> Jibu Forms</li>
                             <li><b>Unlimited</b> Solo Invoices</li>
                             <li><b>Unlimited</b> Solo Proposals</li>
-                            <li><b>Unlimited</b> Solo Invoices</li>
-                            <li><b>Unlimited</b> Solo Invoices</li>
+                            <li><b>Unlimited</b> Solo Projects</li>
+                            <li><b>Unlimited</b> Solo Clients</li>
                             <li><b>10 GB</b> Storage</li>
 
                         </ul>
