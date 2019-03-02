@@ -19,10 +19,10 @@ include('../includes/navbar.php');
             <div class="col-md-4">
                 <div class="card card-pricing card-plaini">
                     <div class="card-body">
-                        <h6 class="category">Enterprise</h6>
+                        <h6 class="category">Free</h6>
                         <h1 class="card-title">
                             <small>kes</small>
-                            59
+                            0
                         </h1>
                         <ul>
                             <li><b>10GB</b> Disk Space</li>
