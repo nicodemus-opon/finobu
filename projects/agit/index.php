@@ -5,7 +5,7 @@ include('../../includes/navbar.php');
 ?>
 <div class="container section p-5">
 <div id="header">
-    
+
 </div><!-- end header -->
 
 <div class="wrapper">
