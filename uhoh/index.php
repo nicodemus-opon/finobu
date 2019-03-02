@@ -25,7 +25,7 @@ include('../includes/head.php');
         </div>
         <div class="row text-center">
             <div class="col-4"></div>
-            <div class="col-4"><a class="btn btn-primary btn-round" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>"> Go back Home</a></div>
+            <div class="col-4">check the url you provided or <a class="btn btn-primary btn-round" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>"> Go back Home</a></div>
             <div class="col-4"></div>
 
 
@@ -35,7 +35,7 @@ include('../includes/head.php');
 
 
 <?php
-include('../includes/footer.php');
+
 include('../includes/end.php');
 
 ?>
