@@ -18,7 +18,7 @@ include('./../includes/navbar.php');
                 </div>
                 <div class="col-md-7">
                     <h3 class="card-title">
-                        <a href="agit">Agit</a>
+                        <a href="agit">Open S</a>
                     </h3>
                     <p class="card-description">
                     <ul class="list-group list-group-flush">
