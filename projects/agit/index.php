@@ -3,12 +3,12 @@
 include('../../includes/head.php');
 include('../../includes/navbar.php');
 ?>
-<div class="container section p-5" style="padding-top: 120px">
+<div class="container section p-5" >
 <div id="header">
 
 </div><!-- end header -->
 
-<div class="wrapper">
+<div class="wrapper" style="padding-top: 120px">
 
     <section>
         <h1 id="-agit"><strong>♖ AGIT</strong></h1>
