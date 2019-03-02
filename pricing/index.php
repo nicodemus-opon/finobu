@@ -10,18 +10,7 @@ include('../includes/navbar.php');
         <div class="row">
             <div class="col-md-6 ml-auto mr-auto text-center">
                 <h2 class="title">Pick the best plan for you</h2>
-                <ul class="nav nav-pills nav-pills-primary justify-content-center" role="tablist">
-                    <li class="nav-item">
-                        <a class="nav-link active" data-toggle="tab" href="#pill1" role="tablist">
-                            Legal Entity
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" data-toggle="tab" href="#pill2" role="tablist">
-                            Individual
-                        </a>
-                    </li>
-                </ul>
+                
             </div>
         </div>
 
