@@ -19,7 +19,7 @@ include('./../includes/navbar.php');
                 <div class="col-md-7">
                     <h6 class="category text-info mt-3">Enterprise</h6>
                     <h3 class="card-title">
-                        <a href="#pablo">Warner Music Group buys concert discovery service Songkick</a>
+                        <a href="agit">Agit</a>
                     </h3>
                     <p class="card-description">
                         Warner Music Group announced today it’s acquiring the selected assets of the music platform Songkick, including its app for finding concerts and the company’s trademark. Songkick has been involved in a lawsuit against the major… <a href="#pablo"> Read More </a>
