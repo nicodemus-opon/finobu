@@ -1,7 +1,7 @@
 <title>Finobu | Projects</title>
 <?php
-include('../../includes/head.php');
-include('../../includes/navbar.php');
+include('./../includes/head.php');
+include('./../includes/navbar.php');
 ?>
 <div class="container section p-5" >
 <div id="header">
