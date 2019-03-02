@@ -20,7 +20,7 @@ include('../../includes/navbar.php');
 
         <h4 id="linux">Linux</h4>
 
-        <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/nicodemus-opon/agit.git ~/agit
+        <div class="highlighter-rouge text-right"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/nicodemus-opon/agit.git ~/agit
 cd ~/agit &amp;&amp; chmod +x agit.py
 echo "alias agit='python3 ~/agit/agit.py'" &gt;&gt; ~/.bash_aliases
 source ~/.bash_aliases
