@@ -53,8 +53,8 @@
 
     <link href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/css/bootstrap.min.css" rel="stylesheet"/>
 
-    <link rel="stylesheet" href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/css/now-ui-kit.min.css">
-    <link rel="stylesheet" href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/aos.css">
+    <link rel="stylesheet" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/css/now-ui-kit.min.css">
+    <link rel="stylesheet" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/aos.css">
     <link href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/hover/css/hover-min.css" rel="stylesheet">
 
     <script type="text/javascript">
