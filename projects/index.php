@@ -1,4 +1,4 @@
-<title>Finobu | Projects Agit</title>
+<title>Finobu | Projects</title>
 <?php
 include('../../includes/head.php');
 include('../../includes/navbar.php');
