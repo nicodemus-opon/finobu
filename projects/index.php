@@ -22,7 +22,7 @@ include('./../includes/navbar.php');
                     </h3>
                     <p class="card-description">
                     <ul class="list-group list-group-flush">
-                        <li  class="list-group-item"><a href="agit"> </a>Agit</li>
+                        <li  class="list-group-item"><a href="agit">Agit </a></li>
 
                     </ul>
                     </p>
