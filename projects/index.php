@@ -18,13 +18,12 @@ include('./../includes/navbar.php');
                 </div>
                 <div class="col-md-7">
                     <h3 class="card-title">
-                        <a href="agit">Open S</a>
+                        <a >Open Source</a>
                     </h3>
                     <p class="card-description">
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Cras justo odio</li>
-                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                        <li class="list-group-item">Vestibulum at eros</li>
+                        <a href="agit" class="list-group-item">Agit</a>
+                        
                     </ul>
                     </p>
                     <p class="author">
