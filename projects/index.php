@@ -6,7 +6,7 @@ include('./../includes/navbar.php');
 <div class="container section p-5" >
 <div class="row">
     <div class="col-md-10 ml-auto mr-auto">
-        <h2 class="title">Latest Blogposts</h2>
+        <h2 class="title">Projects</h2>
 
         <br>
         <div class="card card-plain card-blog">
@@ -21,7 +21,7 @@ include('./../includes/navbar.php');
                         <a href="agit">Agit</a>
                     </h3>
                     <p class="card-description">
-                        
+
                     </p>
                     <p class="author">
 
