@@ -9,21 +9,20 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-6 col-lg-4">
                         <div class="card card-profile">
                             <div class="card-body">
                                 <div class="card-avatar">
 
-                                        <img class="imgm img-raisedm" src="assets/img/logo2.png">
+                                    <img class="imgm img-raisedm" src="assets/img/logo2.png">
 
                                 </div>
-
 
 
                                 <h4 class="card-title">Finobu Solo</h4>
 
                                 <p class="card-description">
-                                    "Work hard play harder."
+                                    Solo provides invoice,proposals
                                 </p>
                                 <div class="card-footer">
                                     <a href="tools.php" class="btn btn-primary btn-round"> Get Started</a>
