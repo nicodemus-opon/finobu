@@ -25,7 +25,7 @@ include('../includes/head.php');
         </div>
         <div class="row text-center">
             <div class="col-4"></div>
-            <div class="col-4"><a class="btn btn-primary"> Go back Home</a></div>
+            <div class="col-4"><a class="btn btn-primary" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>"> Go back Home</a></div>
             <div class="col-4"></div>
 
 
