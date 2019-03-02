@@ -15,9 +15,12 @@ include('../includes/head.php');
         </div>
 
         <div class="row text-center">
-            <img wnidth="760px" hbeight="600px" class="img img-responsive"
-                 src="./../assets/fogg/fogg-fatal-error-3.png"
-                 srci="assets/fogg/fogg-">
+            <div class="col-4"></div>
+            <div class="col-4"><img wnidth="760px" hbeight="600px" class="img img-responsive"
+                                    src="./../assets/fogg/fogg-fatal-error-3.png"
+                                    srci="assets/fogg/fogg-"></div>
+            <div class="col-4"></div>
+
 
         </div>
 
