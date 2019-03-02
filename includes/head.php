@@ -53,9 +53,9 @@
 
     <link href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/css/bootstrap.min.css" rel="stylesheet"/>
 
-    <link rel="stylesheet" href="../assets/css/now-ui-kit.min.css">
-    <link rel="stylesheet" href="../assets/aos.css">
-    <link href="../assets/hover/css/hover-min.css" rel="stylesheet">
+    <link rel="stylesheet" href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/css/now-ui-kit.min.css">
+    <link rel="stylesheet" href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/aos.css">
+    <link href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/hover/css/hover-min.css" rel="stylesheet">
 
     <script type="text/javascript">
         var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
