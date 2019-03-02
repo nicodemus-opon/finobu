@@ -4,9 +4,9 @@
 
 
         <div class="navbar-translate">
-            <a class="navbar-brand" href="../" rel="tooltip" title="Finobu Software Ltd Home Page"
+            <a class="navbar-brand" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/" rel="tooltip" title="Finobu Software Ltd Home Page"
                data-placement="bottom">
-                <img class="img " src="../assets/img/favicon.png" style="height: 25px"> <b> Finobu</b>
+                <img class="img " src="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/img/favicon.png" style="height: 25px"> <b> Finobu</b>
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
