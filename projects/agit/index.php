@@ -15,11 +15,10 @@ include('../../includes/navbar.php');
 
     <section>
         <div id="title">
-            <h1>agit</h1>
+            <h1>Agit</h1>
             <p>Autogit</p>
             <hr>
             <span class="credits left">Project maintained by <a href="https://github.com/nicodemus-opon">nicodemus-opon</a></span>
-            <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
         </div>
 
         <h1 id="-agit"><strong>♖ AGIT</strong></h1>
