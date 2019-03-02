@@ -6,7 +6,7 @@ include('includes/navbar.php');
 
 <div id="header">
     <nav>
-        <li class="fork"><a href="https://github.com/nicodemus-opon/agit">View On GitHub</a></li>
+        <li class="fork btn-primary"><a href="https://github.com/nicodemus-opon/agit">View On GitHub</a></li>
 
     </nav>
 </div><!-- end header -->
