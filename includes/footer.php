@@ -61,7 +61,7 @@
                     <h5>Partner with us</h5>
                     <ul class="links-vertical">
                         <li>
-                            <a href="#pablo">
+                            <a href="projects">
                                 Projects
                             </a>
                         </li>
