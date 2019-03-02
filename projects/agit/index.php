@@ -3,7 +3,7 @@
 include('../../includes/head.php');
 include('../../includes/navbar.php');
 ?>
-
+<div class="container section">
 <div id="header">
     <nav>
         <li class="fork "><a href="https://github.com/nicodemus-opon/agit">View On GitHub</a></li>
@@ -78,7 +78,7 @@ echo 'export PATH="$PATH:~/agit"' &gt;&gt; ~/.bash_profile &amp;&amp; source ~/.
 
 </div>
 
-
+</div>
 
 <?php
 include('../../includes/footer.php');
