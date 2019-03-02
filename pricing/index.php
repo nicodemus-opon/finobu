@@ -49,9 +49,12 @@ include('../includes/navbar.php');
 
                         <ul>
                             <li><b>Unlimited</b> Jibu Forms</li>
-                            <li><b>1</b> Solo Account</li>
+                            <li><b>Unlimited</b> Solo Invoices</li>
+                            <li><b>Unlimited</b> Solo Proposals</li>
+                            <li><b>Unlimited</b> Solo Invoices</li>
+                            <li><b>Unlimited</b> Solo Invoices</li>
                             <li><b>10 GB</b> Storage</li>
-                            <li><b>Unlimited</b> subdomains</li>
+
                         </ul>
                         <a href="#pablo" class="btn btn-primary btn-round">
                             Start free trial
