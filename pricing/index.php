@@ -25,7 +25,7 @@ include('../includes/navbar.php');
                             0
                         </h1>
                         <ul>
-                            <li><b>10GB</b> Jibu</li>
+                            <li><b>10GB</b> Jibu Forms</li>
                             <li><b>100GB</b> Monthly Bandwidth</li>
                             <li><b>20</b> Email Accounts</li>
                             <li><b>Unlimited</b> subdomains</li>
@@ -41,14 +41,14 @@ include('../includes/navbar.php');
                 <div class="card card-pricing card-backgroundi card-raised"
                      style="background-imagei: url('../assets/img/pricing2.jpg')">
                     <div class="card-body">
-                        <h6 class="category text-info">Professional</h6>
+                        <h6 class="category text-info">Individual</h6>
                         <h1 class="card-title">
                             <small>kes</small>
                             29
                         </h1>
 
                         <ul>
-                            <li><b>5GB</b> Disk Space</li>
+                            <li><b>5GB</b> Jibu Forms</li>
                             <li><b>50GB</b> Monthly Bandwidth</li>
                             <li><b>10</b> Email Accounts</li>
                             <li><b>Unlimited</b> subdomains</li>
