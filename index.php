@@ -15,7 +15,7 @@ include('includes/navbar.php');
                 <div class="col-md-5">
                     <div class="jumbotron bg-transparent">
                         <h1>Tools to grow your business</h1>
-                        <p> Finobu offers a range of finance tools for small and medium enterprises.</p>
+                        <p> Finobu offers a range of software tools for small and medium enterprises.</p>
                         <p><a class="btn btn-primary" role="button" href="#">Get Started</a> or <a class="btn-linkm "
                                                                                                    href="#u"> sign
                                 in</a></p>
