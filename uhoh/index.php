@@ -35,7 +35,7 @@ include('../includes/head.php');
 
 
 <?php
-include('../includes/footer.phpo');
+include('../includes/footer.php');
 include('../includes/end.php');
 
 ?>
