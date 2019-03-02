@@ -53,7 +53,7 @@ include('../includes/navbar.php');
                             <li><b>10</b> Email Accounts</li>
                             <li><b>Unlimited</b> subdomains</li>
                         </ul>
-                        <a href="#pablo" class="btn btn-outline-primary btn-round">
+                        <a href="#pablo" class="btn btn-primary btn-round">
                             Start free trial
                         </a>
                     </div>
