@@ -55,14 +55,14 @@
 
     <link rel="stylesheet" href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/css/now-ui-kit.min.css">
     <link rel="stylesheet" href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/aos.css">
-    <link href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/hover/css/hover-min.css" rel="stylesheet">
+    <link href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/hover/css/hover-min.css" rel="stylesheet">
 
     <script type="text/javascript">
         var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
         (function () {
             var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
             s1.async = true;
-            s1.src = 'https://embed.tawk.to/5c5d92696cb1ff3c14cba91c/default';
+            s1.src = '//embed.tawk.to/5c5d92696cb1ff3c14cba91c/default';
             s1.charset = 'UTF-8';
             s1.setAttribute('crossorigin', '*');
             s0.parentNode.insertBefore(s1, s0);
