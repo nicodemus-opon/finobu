@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/projects/agit/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="e#1034#1038#0#HTML" expanded="true" />
@@ -160,12 +160,12 @@
       <workItem from="1551018782861" duration="10462000" />
       <workItem from="1551429954849" duration="877000" />
       <workItem from="1551461517597" duration="606000" />
-      <workItem from="1551503080587" duration="6554000" />
+      <workItem from="1551503080587" duration="6751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31196000" />
+    <option name="totallyTimeSpent" value="31393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -270,7 +270,7 @@
     <entry file="file://$PROJECT_DIR$/projects/agit/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="e#1034#1038#0#HTML" expanded="true" />
