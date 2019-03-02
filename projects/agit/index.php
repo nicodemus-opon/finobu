@@ -1,12 +1,12 @@
 <title>Finobu | Projects Agit</title>
 <?php
-include('includes/head.php');
-include('includes/navbar.php');
+include('../../includes/head.php');
+include('../../includes/navbar.php');
 ?>
 
 <div id="header">
     <nav>
-        <li class="fork btn-primary"><a href="https://github.com/nicodemus-opon/agit">View On GitHub</a></li>
+        <li class="fork "><a href="https://github.com/nicodemus-opon/agit">View On GitHub</a></li>
 
     </nav>
 </div><!-- end header -->
@@ -81,7 +81,7 @@ echo 'export PATH="$PATH:~/agit"' &gt;&gt; ~/.bash_profile &amp;&amp; source ~/.
 
 
 <?php
-include('includes/footer.php');
-include('includes/end.php');
+include('../../includes/footer.php');
+include('../../includes/end.php');
 
 ?>
