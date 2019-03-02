@@ -13,7 +13,7 @@ include('./../includes/navbar.php');
             <div class="row">
                 <div class="col-md-5">
                     <div class="card-image">
-                        <img class="img img-raised rounded" src="./../assets/fogg/">
+                        <img class="img img-raised rounded" src="./../assets/fogg/fogg-order-completed.png">
                     </div>
                 </div>
                 <div class="col-md-7">
@@ -21,7 +21,7 @@ include('./../includes/navbar.php');
                         <a href="agit">Agit</a>
                     </h3>
                     <p class="card-description">
-                        Warner Music Group announced today it’s acquiring the selected assets of the music platform Songkick, including its app for finding concerts and the company’s trademark. Songkick has been involved in a lawsuit against the major… <a href="#pablo"> Read More </a>
+                        
                     </p>
                     <p class="author">
 
