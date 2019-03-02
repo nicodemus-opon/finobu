@@ -25,8 +25,8 @@ include('../includes/navbar.php');
                             0
                         </h1>
                         <ul>
-                            <li><b>10GB</b> Jibu Forms</li>
-                            <li><b>100GB</b> Monthly Bandwidth</li>
+                            <li><b>Unlimited</b> Jibu Forms</li>
+                            <li><b>1GB</b> Storage</li>
                             <li><b>20</b> Email Accounts</li>
                             <li><b>Unlimited</b> subdomains</li>
                         </ul>
@@ -48,9 +48,9 @@ include('../includes/navbar.php');
                         </h1>
 
                         <ul>
-                            <li><b>5GB</b> Jibu Forms</li>
-                            <li><b>50GB</b> Solo</li>
-                            <li><b>10</b> Email Accounts</li>
+                            <li><b>Unlimited</b> Jibu Forms</li>
+                            <li><b>1</b> Solo Account</li>
+                            <li><b>10 GB</b> Storage</li>
                             <li><b>Unlimited</b> subdomains</li>
                         </ul>
                         <a href="#pablo" class="btn btn-primary btn-round">
