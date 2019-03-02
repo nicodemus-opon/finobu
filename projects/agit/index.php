@@ -3,7 +3,7 @@
 include('../../includes/head.php');
 include('../../includes/navbar.php');
 ?>
-<div class="container section p-10 ml-auto mr-auto" >
+<div class="container section p-5 ml-auto mr-auto" >
 <div id="header">
 
 </div><!-- end header -->
