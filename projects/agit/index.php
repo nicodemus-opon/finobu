@@ -3,7 +3,7 @@
 include('../../includes/head.php');
 include('../../includes/navbar.php');
 ?>
-<div class="container section">
+<div class="container section p-5">
 <div id="header">
     <nav>
         <li class="fork "><a href="https://github.com/nicodemus-opon/agit">View On GitHub</a></li>
