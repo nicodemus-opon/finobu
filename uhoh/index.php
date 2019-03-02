@@ -1,4 +1,4 @@
-<title>Finobu | Pricing</title>
+<title>Finobu | UHOH</title>
 <?php
 include('../includes/head.php');
 
