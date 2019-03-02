@@ -25,12 +25,14 @@ include('../includes/navbar.php');
                             0
                         </h1>
                         <ul>
+
                             <li><b>Unlimited</b> Jibu Forms</li>
-                            <li><b>Unlimited</b> Solo Invoices</li>
+                            <li><b>10</b> Solo Invoices</li>
                             <li><b>Unlimited</b> Solo Proposals</li>
-                            <li><b>Unlimited</b> Solo Projects</li>
-                            <li><b>Unlimited</b> Solo Clients</li>
-                            <li><b>10 GB</b> Storage</li>
+                            <li><b>3</b> Solo Projects</li>
+                            <li><b>5</b> Solo Clients</li>
+                            <li><b>1 GB</b> Storage</li>
+
                         </ul>
                         <a href="#pablo" class="btn btn-primary btn-round">
                             Sign Up
@@ -50,6 +52,7 @@ include('../includes/navbar.php');
                         </h1>
 
                         <ul>
+
                             <li><b>Unlimited</b> Jibu Forms</li>
                             <li><b>Unlimited</b> Solo Invoices</li>
                             <li><b>Unlimited</b> Solo Proposals</li>
