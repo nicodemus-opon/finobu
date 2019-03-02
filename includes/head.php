@@ -39,7 +39,7 @@
     <meta name="Description"
           content="Finobu offers a range of finance tools for small and medium enterprises. ranging from freelance businesses,saloons,shops ,clinics">
     <meta charset="utf-8"/>
-    <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/img/favicon.png">
     <link rel="icon" type="image/png" href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] .''?>/assets/img/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
