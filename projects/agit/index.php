@@ -5,10 +5,7 @@ include('../../includes/navbar.php');
 ?>
 <div class="container section p-5">
 <div id="header">
-    <nav>
-        <li class="fork "><a href="https://github.com/nicodemus-opon/agit">View On GitHub</a></li>
-
-    </nav>
+    
 </div><!-- end header -->
 
 <div class="wrapper">
