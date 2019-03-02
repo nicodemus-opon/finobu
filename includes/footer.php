@@ -61,7 +61,7 @@
                     <h5>Partner with us</h5>
                     <ul class="links-vertical">
                         <li>
-                            <a href="projects">
+                            <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/projects">
                                 Projects
                             </a>
                         </li>
