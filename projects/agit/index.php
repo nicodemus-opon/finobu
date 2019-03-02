@@ -14,8 +14,6 @@ include('../../includes/navbar.php');
 <div class="wrapper">
 
     <section>
-       
-
         <h1 id="-agit"><strong>♖ AGIT</strong></h1>
         <span class="credits left">Project maintained by <a href="https://github.com/nicodemus-opon">nicodemus-opon</a></span>
 
