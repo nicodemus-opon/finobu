@@ -14,14 +14,10 @@ include('../../includes/navbar.php');
 <div class="wrapper">
 
     <section>
-        <div id="title">
-            <h1>Agit</h1>
-            <p>Autogit</p>
-            <hr>
-            <span class="credits left">Project maintained by <a href="https://github.com/nicodemus-opon">nicodemus-opon</a></span>
-        </div>
+       
 
         <h1 id="-agit"><strong>♖ AGIT</strong></h1>
+        <span class="credits left">Project maintained by <a href="https://github.com/nicodemus-opon">nicodemus-opon</a></span>
 
         <p>Agit is a CLI for automating Git Processes</p>
 
