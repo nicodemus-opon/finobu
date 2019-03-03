@@ -38,8 +38,7 @@ include('../includes/navbar.php');
                         </div>
                         <h3 class="card-title">Earn for each paid subscription
                             30% commission.</h3>
-
-                        <a href="#pablo" class="btn btn-primary btn-round">Add to Cart</a>
+                        
                     </div>
                 </div>
             </div>
