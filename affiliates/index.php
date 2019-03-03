@@ -18,11 +18,11 @@ include('../includes/navbar.php');
             <div class="col-md-6 col-lg-4 ">
                 <div class="card card-pricing">
                     <div class="card-body">
-                        
+
                         <div class="icon icon-primary">
-                            <i class="now-ui-icons objects_diamond"></i>
+                            <i class="now-ui-icons ui-1_lock-circle-open"></i>
                         </div>
-                        <h3 class="card-title">$67</h3>
+                        <h3 class="card-title">Sign up</h3>
                         <p class="card-description">
                             This is good if your company size is between 100 and 299 employees.</p>
                         <a href="#pablo" class="btn btn-primary btn-round">Add to Cart</a>
