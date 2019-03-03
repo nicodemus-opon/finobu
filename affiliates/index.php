@@ -36,10 +36,10 @@ include('../includes/navbar.php');
                         <div class="icon icon-primary">
                             <i class="now-ui-icons objects_diamond"></i>
                         </div>
-                        <h3 class="card-title">$67</h3>
+                        <h3 class="card-title">Earn for each paid subscription
+                            25% commission.</h3>
                         <p class="card-description">
-                            Earn for each paid subscription
-                            25% commission.</p>
+                            </p>
                         <a href="#pablo" class="btn btn-primary btn-round">Add to Cart</a>
                     </div>
                 </div>
