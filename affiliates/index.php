@@ -22,7 +22,7 @@ include('../includes/navbar.php');
                         <div class="icon icon-primary">
                             <i class="now-ui-icons ui-1_lock-circle-open"></i>
                         </div>
-                        <h3 class="card-title">Sign up free</h3>
+                        <h3 class="card-title">Sign up free </h3>
                         <p class="card-description">
                             This is good if your company size is between 100 and 299 employees.</p>
                         <a href="#pablo" class="btn btn-primary btn-round">Add to Cart</a>
