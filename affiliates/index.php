@@ -15,7 +15,7 @@ include('../includes/navbar.php');
         </div>
 
         <div class="row">
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-4">
                 <div class="card card-pricing">
                     <div class="card-body">
                         <h6 class="category">Alpha Pack</h6>
