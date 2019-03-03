@@ -33,7 +33,7 @@ include('../includes/navbar.php');
                 <div class="card card-pricing">
                     <div class="card-body">
                         <div class="icon icon-primary">
-                            <i class="now-ui-icons objects_diamond"></i>
+                            <i class="now-ui-icons te"></i>
                         </div>
                         <h3 class="card-title">$67</h3>
                         <p class="card-description">
