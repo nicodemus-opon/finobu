@@ -38,7 +38,8 @@ include('../includes/navbar.php');
                         </div>
                         <h3 class="card-title">$67</h3>
                         <p class="card-description">
-                            This is good if your company size is between 100 and 299 employees.</p>
+                            Earn for each paid subscription
+                            25% commission.</p>
                         <a href="#pablo" class="btn btn-primary btn-round">Add to Cart</a>
                     </div>
                 </div>
