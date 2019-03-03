@@ -9,7 +9,7 @@ include('../includes/navbar.php');
     <div class="container">
         <div class="row">
             <div class="col-md-6 ml-auto mr-auto text-center">
-                <h2 class="title">Pick the best plan for you</h2>
+                <h2 class="title">Join finobu Affiliate Program</h2>
 
             </div>
         </div>
