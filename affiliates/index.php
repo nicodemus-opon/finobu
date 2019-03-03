@@ -18,7 +18,7 @@ include('../includes/navbar.php');
             <div class="col-md-6 col-lg-4 ">
                 <div class="card card-pricing">
                     <div class="card-body">
-                        <h6 class="category">Alpha Pack</h6>
+                        
                         <div class="icon icon-primary">
                             <i class="now-ui-icons objects_diamond"></i>
                         </div>
