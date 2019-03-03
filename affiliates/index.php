@@ -38,10 +38,18 @@ include('../includes/navbar.php');
                         </div>
                         <h3 class="card-title">Earn for each paid subscription
                             30% commission.</h3>
-                        
+
                     </div>
                 </div>
             </div>
+
+        </div>
+        <div class="row text-center">
+            <div class="col-lg-4"></div>
+            <div class="col-lg-4"><p class="titl"></p>
+                <a class="btn btn-primary btn-round" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>"> Start Earning</a></div>
+            <div class="col-lg-4"></div>
+
 
         </div>
 
