@@ -60,7 +60,7 @@ include('../includes/navbar.php');
         <div class="row text-center">
             <div class="col-lg-4"></div>
             <div class="col-lg-4"><p class="titl"></p>
-                <a class="btn btn-primary btn-block " href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>"> Start Earning</a></div>
+                <a class="btn btn-primary btn-block btn-round" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>"> Start Earning</a></div>
             <div class="col-lg-4"></div>
 
 
