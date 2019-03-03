@@ -14,8 +14,8 @@ include('../includes/navbar.php');
             </div>
         </div>
 
-        <div class="row ml-auto mr-auto text-center">
-            <div class="col-md-6 col-lg-4">
+        <div class="row ml-auto ">
+            <div class="col-md-6 col-lg-4 mr-auto text-center">
                 <div class="card card-pricing">
                     <div class="card-body">
                         <h6 class="category">Alpha Pack</h6>
@@ -29,7 +29,7 @@ include('../includes/navbar.php');
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4">
+            <div class="col-md-6 col-lg-4 mr-auto text-center">
                 <div class="card card-pricing">
                     <div class="card-body">
                         <h6 class="category">Alpha Pack</h6>
