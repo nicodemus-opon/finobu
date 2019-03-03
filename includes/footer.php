@@ -66,12 +66,12 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#pablo">
+                            <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/careers">
                                 Recruitment
                             </a>
                         </li>
                         <li>
-                            <a href="#pablo">
+                            <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/projects">
                                 Affiliate Program
                             </a>
                         </li>
