@@ -14,7 +14,7 @@ include('../includes/navbar.php');
             </div>
         </div>
 
-        <div class="row ml-auto ">
+        <div class="row ">
             <div class="col-md-6 col-lg-4 ml-auto mr-auto text-center">
                 <div class="card card-pricing">
                     <div class="card-body">
