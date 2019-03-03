@@ -71,7 +71,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/projects">
+                            <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/affiliates">
                                 Affiliate Program
                             </a>
                         </li>
