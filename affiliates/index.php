@@ -37,7 +37,7 @@ include('../includes/navbar.php');
                             <i class="now-ui-icons objects_diamond"></i>
                         </div>
                         <h3 class="card-title">Earn for each paid subscription
-                            25% commission.</h3>
+                            30% commission.</h3>
 
                         <a href="#pablo" class="btn btn-primary btn-round">Add to Cart</a>
                     </div>
