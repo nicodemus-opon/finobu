@@ -25,7 +25,7 @@ include('../includes/navbar.php');
                         <h3 class="card-title">Sign up free </h3>
                         <p class="card-description">
                             This is good if your company size is between 100 and 299 employees.</p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -49,9 +49,9 @@ include('../includes/navbar.php');
                         <div class="icon icon-primary">
                             <i class="now-ui-icons users_single-02"></i>
                         </div>
-                        <h3 class="card-title">Earn for each paid subscription
-                            30% commission.</h3>
-
+                        <h3 class="card-title">Earn </h3>
+                        <p class="card-description">
+                            This is good if your company size is between 100 and 299 employees.</p>
                     </div>
                 </div>
             </div>
