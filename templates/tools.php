@@ -1,15 +1,15 @@
-<div class="section section-about-usi">
+<div class="section section-about-usi" >
     <div class="containern">
         <div class="cards">
 
-            <div class="container">
-                <div class="title">
+            <div class="container" >
+                <div class="title" data-aos="fade-up">
                     <h3>Our Products
                     </h3>
                 </div>
 
-                <div class="row">
-                    <div class="col-md-6 col-lg-4">
+                <div class="row" data-aos="fade-up">
+                    <div class="col-md-6 col-lg-4 ">
                         <div class="card card-profile">
                             <div class="card-body">
                                 <div class="card-avatar">
