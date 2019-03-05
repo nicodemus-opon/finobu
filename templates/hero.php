@@ -12,7 +12,7 @@
             </div>
             <div class="col-md-7 floto" style="">
                 <img wnidth="760px" hbeight="600px" class="img img-responsive"
-                     src="assets/ill.png"
+                     src="assets/img/ab/"
                      srci="assets/fogg/fogg-premium-upgrade-1.png">
             </div>
         </div>
