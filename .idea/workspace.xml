@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6d08ce4-7e82-4683-a2a7-57ce3cca4b7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Build faster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Connect with your audience.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Data analytics.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Engage your customers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Fast support.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Grow with us.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Learn by yourself.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Share ideas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Team work.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Tell your story.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/PNG/Turn ideas into products.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Absurd Illustrations/Readme &amp; License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hero.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hero.php" afterDir="false" />
-    </list>
+    <list default="true" id="d6d08ce4-7e82-4683-a2a7-57ce3cca4b7e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/hero.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+            <state relative-caret-position="105">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -162,12 +148,12 @@
       <workItem from="1551429954849" duration="877000" />
       <workItem from="1551461517597" duration="606000" />
       <workItem from="1551503080587" duration="9106000" />
-      <workItem from="1551548390142" duration="10802000" />
+      <workItem from="1551548390142" duration="11017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44550000" />
+    <option name="totallyTimeSpent" value="44765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -383,8 +369,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/hero.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="105">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
