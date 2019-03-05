@@ -13,25 +13,11 @@
                     <h5>Products</h5>
                     <ul class="links-vertical">
                         <li>
-                            <a href="#pablo">
+                            <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/solo">
                                 Solo
                             </a>
                         </li>
-                        <li>
-                            <a href="#pablo">
-                                mopos
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#pablo">
-                                Teta
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#pablo">
-                                Sacco
-                            </a>
-                        </li>
+
                     </ul>
                 </div>
 

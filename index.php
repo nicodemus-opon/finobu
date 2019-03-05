@@ -14,6 +14,10 @@ include('includes/navbar.php');
 
     ?>
     <?php
+    include('templates/features.php');
+
+    ?>
+    <?php
     include('templates/tools.php');
 
     ?>
@@ -26,6 +30,7 @@ include('includes/navbar.php');
 
     ?>
 </div>
+
 
 
 <?php
