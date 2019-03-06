@@ -4,97 +4,55 @@ include('../includes/head.php');
 include('../includes/navbar.php');
 ?>
 
-<div class="pricing-2">
-
+<div class=" section">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 ml-auto mr-auto text-center">
-                <h2 class="title">Pick the best plan for you</h2>
+            <div class="col-md-8 mr-auto ml-auto">
+                <h2 class="text-center title">Want to work with us?</h2>
+                <h4 class="text-center description">Divide details about your product or agency work into parts. Write a few lines about each one and contact us about any further collaboration. We will get back to you in a couple of hours.</h4>
+                <form class="contact-form">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <label>First name</label>
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="now-ui-icons users_circle-08"></i></span>
+                                </div>
+                                <input type="text" class="form-control" placeholder="First Name..." autocomplete="firstname">
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <label>Your email</label>
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="now-ui-icons ui-1_email-85"></i></span>
+                                </div>
+                                <input type="text" class="form-control" placeholder="Email Name..." autocomplete="email">
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <label>Specialty</label>
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="now-ui-icons ui-2_settings-90"></i></span>
+                                </div>
+                                <input type="text" class="form-control" placeholder="Specialty..." autocomplete="email">
+                            </div>
+                        </div>
+                    </div>
 
+                    <div class="row">
+                        <div class="col-md-4 ml-auto mr-auto text-center">
+                            <button class="btn btn-primary btn-round mt-4 btn-lg">
+                                Let's talk
+                            </button>
+                        </div>
+                    </div>
+                </form>
             </div>
         </div>
-
-        <div class="row">
-
-            <div class="col-md-4">
-                <div class="card card-pricing card-plaini">
-                    <div class="card-body">
-                        <h6 class="category">Free</h6>
-                        <h1 class="card-title">
-                            <small>kes</small>
-                            0
-                        </h1>
-                        <ul>
-
-                            <li><b>Unlimited</b> Jibu Forms</li>
-                            <li><b>10</b> Solo Invoices</li>
-                            <li><b>Unlimited</b> Solo Proposals</li>
-                            <li><b>3</b> Solo Projects</li>
-                            <li><b>5</b> Solo Clients</li>
-                            <li><b>1 GB</b> Storage</li>
-
-                        </ul>
-                        <a href="#pablo" class="btn btn-primary btn-round">
-                            Sign Up
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-4">
-                <div class="card card-pricing card-backgroundi card-raised"
-                     style="background-imagei: url('../assets/img/pricing2.jpg')">
-                    <div class="card-body">
-                        <h6 class="category text-info">Individual</h6>
-                        <h1 class="card-title">
-                            <small>kes</small>
-                            29
-                        </h1>
-
-                        <ul>
-
-                            <li><b>Unlimited</b> Jibu Forms</li>
-                            <li><b>Unlimited</b> Solo Invoices</li>
-                            <li><b>Unlimited</b> Solo Proposals</li>
-                            <li><b>Unlimited</b> Solo Projects</li>
-                            <li><b>Unlimited</b> Solo Clients</li>
-                            <li><b>10 GB</b> Storage</li>
-
-                        </ul>
-                        <a href="#pablo" class="btn btn-primary btn-round">
-                            Start free trial
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-4">
-                <div class="card card-pricing card-plaini">
-                    <div class="card-body">
-                        <h6 class="category">Standard</h6>
-                        <h1 class="card-title">
-                            <small>kes</small>
-                            17
-                        </h1>
-
-                        <ul>
-                            <li><b>2GB</b> Disk Space</li>
-                            <li><b>25GB</b> Monthly Bandwidth</li>
-                            <li><b>5</b> Email Accounts</li>
-                            <li><b>Unlimited</b> subdomains</li>
-                        </ul>
-                        <a href="#pablo" class="btn btn-primary btn-round">
-                            Start free trial
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
     </div>
 </div>
-
 
 <?php
 include('../includes/footer.php');

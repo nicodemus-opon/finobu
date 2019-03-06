@@ -4,9 +4,11 @@
 
 
         <div class="navbar-translate">
-            <a class="navbar-brand" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/" rel="tooltip" title="Finobu Software Ltd Home Page"
+            <a class="navbar-brand" href="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/" rel="tooltip"
+               title="Finobu Software Ltd Home Page"
                data-placement="bottom">
-                <img class="img " src="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/img/favicon.png" style="height: 25px"> <b> Finobu</b>
+                <img class="img " src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/img/favicon.png"
+                     style="height: 25px"> <b class="text-primary" style="font-family: Charcoal, sans-serif"> Finobu</b>
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
@@ -23,21 +25,27 @@
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink1" data-toggle="dropdown"
                        aria-expanded="false">
-                        <i class="now-ui-icons design_app"></i>
+                        <i class="now-ui-icons files_box"></i>
                         <p>Products</p>
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink1">
-                        <a class="dropdown-item" href="./index.html">
+                        <a class="dropdown-item" href="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/solo">
                             <i class="now-ui-icons objects_diamond"></i>
                             Solo for freelancers
                         </a>
+                        <a class="dropdown-item" href="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/jibu">
+                            <i class="now-ui-icons ui-1_send"></i>
+                            Jibu Form Endpoints
+                        </a>
 
                     </div>
+
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/pricing" class="nav-link dropdown-togglev" id="navbarDropdownMenuLink">
-                        <i class="now-ui-icons files_single-copy-04" aria-hidden="true"></i>
+                    <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/pricing"
+                       class="nav-link dropdown-togglev" id="navbarDropdownMenuLink">
+                        <i class="now-ui-icons shopping_credit-card" aria-hidden="true"></i>
                         <p>Pricing</p>
                     </a>
 
@@ -46,7 +54,8 @@
 
                 <li class="nav-item">
                     <a class="nav-link btn btn-neutral btn-roundi ccc" href="tel:0733626262" target="_blank">
-                        <i class="now-ui-icons business_briefcase-24"></i> <p> Sign Up</p>
+                        <i class="now-ui-icons business_briefcase-24"></i>
+                        <p> Sign Up</p>
                     </a>
                 </li>
 

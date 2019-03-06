@@ -1,16 +1,20 @@
 <div class="features-5">
     <div class="container">
         <div class="row">
-            <div class="col-md-7">
-                <div class="tablet-container">
-                    <img src="assets/img/ipad2-inverted.png">
+            <div class="col-md-7 p-5">
+                <div class="card card-background card-background-product card-raised hvr-bob" style="background-image: url('../assets/img/project8.jpg')">
+                    <div class="card-body">
+                        <h2 class="card-title">Social Analytics</h2>
+                        <p class="card-description">
+                            Insight to help you create, connect, and convert. Understand Your Audience's Interests, Influence, Interactions, and Intent. Discover emerging topics and influencers to reach new audiences.
+                        </p>
+                        <label class="badge badge-neutral">Analytics</label>
+                    </div>
                 </div>
             </div>
             <div class="col-md-5">
-
                 <h2 class="title">Working is a pleasure</h2>
-
-                <div class="info info-horizontal">
+                <div class="info info-horizontal" data-aos="flip-right">
                     <div class="icon icon-primary icon-circle">
                         <i class="now-ui-icons location_world"></i>
                     </div>
@@ -20,7 +24,7 @@
                     </div>
                 </div>
 
-                <div class="info info-horizontal">
+                <div class="info info-horizontal" data-aos="flip-left">
                     <div class="icon icon-primary icon-circle">
                         <i class="now-ui-icons sport_user-run"></i>
                     </div>
@@ -30,7 +34,7 @@
                     </div>
                 </div>
 
-                <div class="info info-horizontal">
+                <div class="info info-horizontal" data-aos="flip-right">
                     <div class="icon icon-primary icon-circle">
                         <i class="now-ui-icons ui-2_time-alarm"></i>
                     </div>

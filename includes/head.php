@@ -42,7 +42,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/img/favicon.png">
     <link rel="icon" type="image/png" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/img/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <!--  Social tags      -->
     <meta name="keywords"
@@ -52,7 +52,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/css/bootstrap.min.css" rel="stylesheet"/>
-
+    <link href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/css/other.css" rel="stylesheet"/>
     <link rel="stylesheet" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/css/now-ui-kit.min.css">
     <link rel="stylesheet" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/aos.css">
     <link href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/hover/css/hover-min.css" rel="stylesheet">

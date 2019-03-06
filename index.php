@@ -9,10 +9,12 @@ include('includes/navbar.php');
 
 ?>
 <div class="main">
+
     <?php
     include('templates/hero.php');
 
     ?>
+
     <?php
     include('templates/features.php');
 

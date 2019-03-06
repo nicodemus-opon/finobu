@@ -14,7 +14,10 @@
                     <ul class="links-vertical">
                         <li>
                             <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/solo">
-                                Solo
+                                Solo For Freelancers
+                            </a>
+                            <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/jibu">
+                                Jibu Form Endpoints
                             </a>
                         </li>
 

@@ -1,6 +1,6 @@
 
 <div class="container">
-<div id="collapse">
+<div id="collapse" data-aos="zoom-in">
     <div class="title">
         <h4>Frequently asked Questions</h4>
     </div>
