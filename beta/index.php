@@ -21,7 +21,7 @@ include('./../includes/navbar.php');
                                 <span class="input-group-text" id="basic-addon3"><i
                                             class="now-ui-icons ui-1_email-85"></i></span>
                             </div>
-                            <input type="text" class="input-lg form-control" id="basic-url"
+                            <input type="text" class="input-lg form-control" name="email_beta" id="basic-url"
                                    placeholder="Your email address">
 
                         </div>
