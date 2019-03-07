@@ -9,7 +9,7 @@
                         join our beta list</a></u></p>
 
         </div>
-        <div class="row" style="padding-topn: 40px;">
+        <div class="row" style="padding-topn: 40px;background-image: url("assets/bg-14.png")">
 
             <div class="col-md-5 .d-none .d-lg-block .d-xl-none">
                 <div class="jumbotron bg-transparent">
