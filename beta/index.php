@@ -1,4 +1,4 @@
-<title>Finobu | Beta Programme</title>
+<title>Finobu | Beta Program</title>
 <?php
 include('./../includes/head.php');
 include('./../includes/navbar.php');
