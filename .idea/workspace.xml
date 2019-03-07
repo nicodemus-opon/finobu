@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6d08ce4-7e82-4683-a2a7-57ce3cca4b7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/beta/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/beta/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="d6d08ce4-7e82-4683-a2a7-57ce3cca4b7e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/navbar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="55" column="127" selection-start-line="55" selection-start-column="127" selection-end-line="55" selection-end-column="127" />
+            <state relative-caret-position="762">
+              <caret line="55" column="132" selection-start-line="55" selection-start-column="132" selection-end-line="55" selection-end-column="132" />
             </state>
           </provider>
         </entry>
@@ -24,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/beta/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="107" selection-start-line="17" selection-start-column="107" selection-end-line="17" selection-end-column="107" />
+            <state relative-caret-position="360">
+              <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -102,8 +100,8 @@
         <option value="$PROJECT_DIR$/affiliates/index.php" />
         <option value="$PROJECT_DIR$/pricing/solo/index.php" />
         <option value="$PROJECT_DIR$/pricing/index.php" />
-        <option value="$PROJECT_DIR$/includes/navbar.php" />
         <option value="$PROJECT_DIR$/templates/hero.php" />
+        <option value="$PROJECT_DIR$/includes/navbar.php" />
         <option value="$PROJECT_DIR$/beta/index.php" />
       </list>
     </option>
@@ -199,12 +197,12 @@
       <workItem from="1551503080587" duration="9106000" />
       <workItem from="1551548390142" duration="11204000" />
       <workItem from="1551805997750" duration="6888000" />
-      <workItem from="1551866745613" duration="10682000" />
+      <workItem from="1551866745613" duration="10995000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62522000" />
+    <option name="totallyTimeSpent" value="62835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -444,13 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/navbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="55" column="127" selection-start-line="55" selection-start-column="127" selection-end-line="55" selection-end-column="127" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -465,10 +456,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/includes/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="55" column="132" selection-start-line="55" selection-start-column="132" selection-end-line="55" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/beta/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="107" selection-start-line="17" selection-start-column="107" selection-end-line="17" selection-end-column="107" />
+        <state relative-caret-position="360">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
