@@ -52,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pricing/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-744">
-              <caret selection-end-line="5" />
+            <state relative-caret-position="285">
+              <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -91,7 +91,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/jibu/index.php" />
-        <option value="$PROJECT_DIR$/pricing/index.php" />
         <option value="$PROJECT_DIR$/projects/agit/index.php" />
         <option value="$PROJECT_DIR$/projects/index.php" />
         <option value="$PROJECT_DIR$/uhoh/index.php" />
@@ -112,6 +111,7 @@
         <option value="$PROJECT_DIR$/templates/features.php" />
         <option value="$PROJECT_DIR$/affiliates/index.php" />
         <option value="$PROJECT_DIR$/pricing/solo/index.php" />
+        <option value="$PROJECT_DIR$/pricing/index.php" />
       </list>
     </option>
   </component>
@@ -201,12 +201,12 @@
       <workItem from="1551503080587" duration="9106000" />
       <workItem from="1551548390142" duration="11204000" />
       <workItem from="1551805997750" duration="6888000" />
-      <workItem from="1551866745613" duration="9299000" />
+      <workItem from="1551866745613" duration="9474000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61139000" />
+    <option name="totallyTimeSpent" value="61314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -472,8 +472,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pricing/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-744">
-          <caret selection-end-line="5" />
+        <state relative-caret-position="285">
+          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
         </state>
       </provider>
     </entry>
