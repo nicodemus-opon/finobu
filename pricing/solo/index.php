@@ -1,4 +1,4 @@
-<title>Finobu | Pricing</title>
+<title>Finobu | Get started with solo</title>
 <?php
 include('../../includes/head.php');
 include('../../includes/navbar.php');
