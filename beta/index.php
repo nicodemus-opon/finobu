@@ -7,10 +7,10 @@ include('./../includes/navbar.php');
 <div class="section">
     <div class="container">
         <div class="row" style="padding-top: 40px;">
-            <div class="col-lg-4 " style="">
+            <div class="col-lg-3 " style="">
 
             </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="jumbotron bg-transparent">
                     <h1>Tools to grow your business</h1>
                     <p> Finobu offers a range of software tools for small and medium enterprises.</p>
@@ -23,7 +23,7 @@ include('./../includes/navbar.php');
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 " style="">
+            <div class="col-lg-3 " style="">
 
             </div>
         </div>
