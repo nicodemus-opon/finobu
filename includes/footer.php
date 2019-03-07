@@ -69,7 +69,7 @@
                 <div class="col-md-3">
                     <h5>Subscribe to Newsletter</h5>
                     <p>
-                        Join our newsletter and get news in your inbox every week! We hate spam too, so no worries about this.
+                        <a href="https://www.producthunt.com/posts/finobu?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-finobu" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=147714&theme=dark" alt="Finobu  - Software tools to help small and medium enterprises grow | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
                     </p>
                     <form class="form form-newsletter" method="" action="">
                         <div class="form-group">
