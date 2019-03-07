@@ -61,8 +61,8 @@ include('../includes/navbar.php');
                             <li><b>10 GB</b> Storage</li>
 
                         </ul>
-                        <a href="#pablo" class="btn btn-primary btn-round">
-                            Start free trial
+                        <a href="solo" class="btn btn-primary btn-round">
+                            Get Started
                         </a>
                     </div>
                 </div>
