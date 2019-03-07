@@ -15,15 +15,18 @@ include('./../includes/navbar.php');
                     <h1>Finobu Beta Programme</h1>
                     <p> Our products are not currently available but feel free to join our beta programme and become an
                         essential part of the process</p>
+                    <form action="https://formcarry.com/s/6gcBZ-xXKrN" method="POST" accept-charset="UTF-8">
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="basic-addon3"><i
+                                            class="now-ui-icons ui-1_email-85"></i></span>
+                            </div>
+                            <input type="text" class="input-lg form-control" id="basic-url"
+                                   placeholder="Your email address">
 
-                    <div class="input-group mb-3">
-                        <div class="input-group-prepend">
-                            <span class="input-group-text" id="basic-addon3"><i class="now-ui-icons ui-1_email-85"></i></span>
                         </div>
-                        <input type="text" class="input-lg form-control" id="basic-url" placeholder="Your email address">
-
-                    </div>
-                    <input class="btn-primary btn btn-block" type="submit" value="Join Beta">
+                        <input class="btn-primary btn btn-block" type="submit" value="Join Beta">
+                    </form>
                 </div>
             </div>
             <div class="col-lg-3 " style="">
