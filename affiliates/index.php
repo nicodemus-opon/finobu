@@ -47,7 +47,7 @@ include('../includes/navbar.php');
                     <div class="card-body">
 
                         <div class="icon icon-primary">
-                            <i class="now-ui-icons users_single-02"></i>
+                            <i class="now-ui-icons business_money-coins"></i>
                         </div>
                         <h3 class="card-title">Earn </h3>
                         <p class="card-description">

@@ -1,7 +1,7 @@
 <div class="features-5">
     <div class="container">
         <div class="row">
-            <div class="col-md-7 p-5">
+            <div class="col-md-7 t-5">
                 <div class="card card-background card-background-product card-raised hvr-bob" style="background-image: url('../assets/img/project8.jpg')">
                     <div class="card-body">
                         <h2 class="card-title">Social Analytics</h2>
