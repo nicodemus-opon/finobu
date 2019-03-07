@@ -12,7 +12,7 @@ include('./../includes/navbar.php');
             </div>
             <div class="col-md-6">
                 <div class="jumbotron bg-transparent">
-                    <h1>Finobu Beta Programme</h1>
+                    <h1>Finobu Beta Program</h1>
                     <p> Our products are not currently available but feel free to join our beta programme and become an
                         essential part of the process</p>
                     <form action="https://formcarry.com/s/6gcBZ-xXKrN" method="POST" accept-charset="UTF-8">
