@@ -15,8 +15,8 @@
                 <div class="jumbotron bg-transparent">
                     <h1>Tools to grow your business</h1>
                     <p> Finobu offers a range of software tools for small and medium enterprises.</p>
-                    <p><a class="btn btn-primary" role="button" href="#">Get Started</a> or <a class="btn-linkm "
-                                                                                               href="#u"> sign
+                    <p><a class="btn btn-primary" role="button" href="beta">Get Started</a> or <a class="btn-linkm "
+                                                                                               href="beta"> sign
                             in</a></p>
 
                 </div>
