@@ -12,8 +12,9 @@ include('./../includes/navbar.php');
             </div>
             <div class="col-md-6">
                 <div class="jumbotron bg-transparent">
-                    <h1>Tools to grow your business</h1>
-                    <p> Finobu offers a range of software tools for small and medium enterprises.</p>
+                    <h1>Finobu Beta Programme</h1>
+                    <p> Our products are not currently available but feel free to join our beta programme and become an
+                        essential part of the process</p>
                     <label for="basic-url">Your vanity URL</label>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
