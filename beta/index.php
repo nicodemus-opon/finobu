@@ -23,7 +23,7 @@ include('./../includes/navbar.php');
                         <input type="text" class="form-control" id="basic-url" placeholder="Your email address">
 
                     </div>
-                    <input class="btn-primary btn" type="submit" value="Join Beta">
+                    <input class="btn-primary btn btn-block" type="submit" value="Join Beta">
                 </div>
             </div>
             <div class="col-lg-3 " style="">
