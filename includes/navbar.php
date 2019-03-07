@@ -53,7 +53,7 @@
 
 
                 <li class="nav-item">
-                    <a class="nav-link btn btn-neutral btn-roundi ccc" href="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/beta" target="_blank">
+                    <a class="nav-link btn btn-neutral btn-roundi ccc" href="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/beta">
                         <i class="now-ui-icons business_briefcase-24"></i>
                         <p> Sign Up</p>
                     </a>
