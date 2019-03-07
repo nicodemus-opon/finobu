@@ -20,7 +20,7 @@ include('./../includes/navbar.php');
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon3"><i class="now-ui-icons ui-1_email-85"></i></span>
                         </div>
-                        <input type="text" class="input-lg" id="basic-url" placeholder="Your email address">
+                        <input type="text" class="input-lg form-control" id="basic-url" placeholder="Your email address">
 
                     </div>
                     <input class="btn-primary btn btn-block" type="submit" value="Join Beta">
