@@ -15,12 +15,13 @@ include('./../includes/navbar.php');
                     <h1>Finobu Beta Programme</h1>
                     <p> Our products are not currently available but feel free to join our beta programme and become an
                         essential part of the process</p>
-                    <label for="basic-url">Your vanity URL</label>
+
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon3"><i class="now-ui-icons ui-1_email-85"></i></span>
                         </div>
                         <input type="text" class="form-control" id="basic-url" placeholder="Your email address">
+                        <button class="btn-primary btn"> Join Beta</button>
                     </div>
                 </div>
             </div>
