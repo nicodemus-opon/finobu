@@ -1,4 +1,4 @@
-<div class="section">
+<div class="section" >
     <div class="container">
         <div class="alert alert-primary" role="alert">
             <button type="button" class="close " data-dismiss="alert" aria-label="Close">
@@ -16,7 +16,7 @@
                     <h1>Tools to grow your business</h1>
                     <p> Finobu offers a range of software tools for small and medium enterprises.</p>
                     <p><a class="btn btn-primary" role="button" href="beta">Get Started</a> or <a class="btn-linkm "
-                                                                                               href="beta"> sign
+                                                                                                  href="beta"> sign
                             in</a></p>
 
                 </div>
@@ -59,8 +59,9 @@
                                         <div class="contentCircle">
                                             <div class="CirItem title-box active CirItem1">
                                                 <h2 class="title"><span>Accounting </span></h2>
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a page when looking at its layout.</p>
+                                                <p>all-in-one accounting software
+                                                    which manages your cashflow, payroll as well as generates quotes and
+                                                    invoices.</p>
                                                 <i class="now-ui-icons business_money-coins"></i>
                                             </div>
                                             <div class="CirItem title-box CirItem2">
@@ -71,20 +72,21 @@
                                             </div>
                                             <div class="CirItem title-box CirItem3">
                                                 <h2 class="title"><span>Projects</span></h2>
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a page when looking at its layout.</p>
+                                                <p>Easily create ,send and manage compelling Project proposals and
+                                                    contracts that will sell with solo and track current projects
+                                                    .</p>
                                                 <i class="now-ui-icons business_briefcase-24"></i>
                                             </div>
                                             <div class="CirItem title-box CirItem4">
                                                 <h2 class="title"><span>Organize</span></h2>
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a page when looking at its layout.</p>
+                                                <p>keep your notes ,tasks and email attachments in one place and stay
+                                                    organized with alerts.</p>
                                                 <i class="now-ui-icons design_bullet-list-67"></i>
                                             </div>
                                             <div class="CirItem title-box CirItem5">
                                                 <h2 class="title"><span>Invoices & expenses</span></h2>
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a page when looking at its layout.</p>
+                                                <p>generate invoices ,send them to your clients also track your
+                                                    expenses .</p>
                                                 <i class="now-ui-icons files_paper"></i>
                                             </div>
                                             <div class="CirItem title-box CirItem6">
