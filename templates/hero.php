@@ -1,4 +1,4 @@
-<div class="section"  >
+<div class="section">
     <div class="container">
         <div class="alert alert-primary" role="alert">
             <button type="button" class="close " data-dismiss="alert" aria-label="Close">
@@ -105,6 +105,7 @@
                 </div>
             </div>
         </div>
-        <div class="brands"><a href="#"><img src="instacart.png" /><img src="kickstarter.png" /><img src="lyft.png" /><img src="shopify.png" /><img src="pinterest.png" /><img src="twitter.png" /></a></div>
+        <div class="brands"><a href="#"><img src="instacart.png"/><img src="kickstarter.png"/><img src="lyft.png"/><img
+                        src="shopify.png"/><img src="pinterest.png"/><img src="twitter.png"/></a></div>
     </div>
 </div>
