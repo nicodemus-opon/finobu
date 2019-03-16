@@ -56,7 +56,12 @@
     <link rel="stylesheet" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/css/now-ui-kit.min.css">
     <link rel="stylesheet" href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/aos.css">
     <link href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/assets/hover/css/hover-min.css" rel="stylesheet">
-
+    <!--link href="https://fonts.googleapis.com/css?family=Heebo:400,400i,700|Titillium+Web:600" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'heebo';
+        }
+    </style-->
     <script type="text/javascript">
         var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
         (function () {

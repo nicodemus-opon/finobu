@@ -34,9 +34,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-7 t-5" style="background-image: url(http://thetheme.io/thesaasx/wp-content/themes/thesaasx/assets/img/vector/21.png);background-size: cover">
+            <div class="col-md-7 t-5" style="background-image: url('assets/ill.png');background-size: cover;background-position: center">
 
             </div>
+
         </div>
     </div>
 
