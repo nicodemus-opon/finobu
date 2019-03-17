@@ -105,7 +105,5 @@
                 </div>
             </div>
         </div>
-        <div class="brands"><a href="#"><img src="instacart.png"/><img src="kickstarter.png"/><img src="lyft.png"/><img
-                        src="shopify.png"/><img src="pinterest.png"/><img src="twitter.png"/></a></div>
-    </div>
+       </div>
 </div>
