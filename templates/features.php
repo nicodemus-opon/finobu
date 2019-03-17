@@ -10,7 +10,7 @@
                     </div>
                     <div class="description">
                         <h4 class="info-title">Hundreds of Components</h4>
-                        <p>The moment you use Now UI Kit, you know you’ve never felt anything like it. With a single use lets you do more than ever before. </p>
+                        <p>The moment you use , you know you’ve never felt anything like it. With a single use lets you do more than ever before. </p>
                     </div>
                 </div>
 
