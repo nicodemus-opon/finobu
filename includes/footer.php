@@ -38,8 +38,13 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#pablo">
+                            <a href="#">
                                 Contact Us
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://finobu.frontify.com/d/2kVczDBYnLot/finobu-style-guide#/basics/colors">
+                                Style Guide
                             </a>
                         </li>
                     </ul>
