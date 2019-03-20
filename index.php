@@ -1,4 +1,27 @@
 <title>Finobu | Tools for SME's</title>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Corporation",
+        "name": "Finobu",
+        "description": "Finobu offers a range of software tools for small and medium enterprises to help them grow",
+        "image": "https://www.finobu.com/assets/img/logo2.png",
+        "logo": "https://www.finobu.com/assets/img/logo2.png",
+        "url": "https://www.finobu.com",
+        "telephone": "0727680698",
+        "sameAs": [
+            "https://twitter.com/finobutools",
+            "https://facebook.com/finobu"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Nairobi, Kenya",
+            "addressLocality": "Nairobi",
+            "postalCode": "01000",
+            "addressCountry": "Kenya"
+        }
+    }
+</script>
 <?php
 include('includes/head.php');
 include('includes/navbar.php');
@@ -9,11 +32,14 @@ include('includes/navbar.php');
 
 ?>
 <div class="main">
-
     <?php
-    include('templates/hero.php');
+    include('templates/first.php');
 
     ?>
+    <!--?php
+    include('templates/hero.php');
+
+    ?-->
 
     <?php
     include('templates/features.php');

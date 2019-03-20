@@ -8,7 +8,7 @@
                title="Finobu Software Ltd Home Page"
                data-placement="bottom">
                 <img class="img " src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/img/favicon.png"
-                     style="height: 25px"> <b class="text-primary" style="font-family: Charcoal, sans-serif"> Finobu</b>
+                     style="height: 25px"> <b class="text-primaryi" style="font-family: Charcoal, sans-serif"> Finobu</b>
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"

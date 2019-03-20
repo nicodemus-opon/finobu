@@ -11,31 +11,6 @@
     <meta property="og:url" content="">
     <meta name="twitter:card" content="">
 
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "Corporation",
-            "name": "Finobu",
-            "description": "Finobu is a sowftware company that ",
-            "image": "https://www.finobu.com/assets/img/logo2.png",
-            "logo": "https://www.finobu.com/assets/img/logo2.png",
-            "url": "https://www.finobu.com",
-            "telephone": "0727680698",
-            "sameAs": [
-                "https://twitter.com/finobutools",
-                "https://facebook.com/finobu"
-            ],
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "Nairobi, Kenya",
-                "addressLocality": "Nairobi",
-                "postalCode": "01000",
-                "addressCountry": "Kenya"
-            }
-        }
-    </script>
-
-
     <meta name="Description"
           content="Finobu offers a range of finance tools for small and medium enterprises. ranging from freelance businesses,saloons,shops ,clinics">
     <meta charset="utf-8"/>

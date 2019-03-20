@@ -15,19 +15,19 @@
 <script src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/js/plugins/nouislider.min.js"></script>
 <script src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/js/plugins/bootstrap-datetimepicker.js"></script>
 <script src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/aos.js"></script>
-<script src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/js/other.js"></script>
+<script src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/js/otherr.js"></script>
 <script>
     AOS.init();
 
 </script>
-<script>
+<!--script>
     $(document).ready(function () {
         $("nav").removeClass("navbar-transparent ");
         $("nav").removeAttr("color-on-scroll")
         $(".ccc").removeClass("btn-neutral ");
         $(".ccc").addClass("btn-primary");
     });
-</script>
+</script-->
 <script>
     $("meta[property='og:title']").attr("content", document.title);
     $("meta[property='og:url']").attr("content", location.toString());
