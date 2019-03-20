@@ -1,4 +1,4 @@
-<div class="page-header header-filter" data-parallax="true" style="background-image: url('assets/duot.png');background-position: center;background-size:cover">
+<div class="page-header header-filterm" data-parallax="true" style="background-image: url('assets/duot.png');background-position: center;background-size:cover">
     <div class="page-header-imageb" style="background-image: url('assets/img/bg14.jpg');"></div>
     <div class="container ">
         <div class="row">
