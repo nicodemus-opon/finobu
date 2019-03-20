@@ -9,9 +9,9 @@
                     to help them grow</h4>
                     <h4></h4>
                     <p> Don't just take our word for it...</p>
-                    <p><a class="btn btn-primaryi btn-neutral" role="button" href="beta">Get Started</a> or <a class="btn-linkm text-white"
+                    <p><a class="btn btn-primaryi btn-neutral" role="button" href="beta">Get Started</a> or <b><a class="btn-linkm text-white"
                                                                                                   href="beta"> sign
-                            in</a></p>
+                            in</a></b></p>
 
                 </div>
             </div>
