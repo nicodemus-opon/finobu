@@ -11,7 +11,7 @@ include('./../includes/navbar.php');
                 <div class="jumbotron bg-transparent">
                     <h1>Solo for freelancers</h1>
                     <p> the ultimate all in one tool for freelancers built by freelacers</p>
-                    <label for="basic-url">Your vanity URL</label>
+                    
                     <div class="input-group mb-3">
                         <a class="btn btn-primary btn-neutrali" role="button" href="beta">Join Beta</a>
                     </div>
