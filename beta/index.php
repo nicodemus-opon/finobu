@@ -31,7 +31,7 @@ include('./../includes/navbar.php');
                         </div>
 
                         <button type="submit" class="btn btn-primary btn-icon btn-round" name="button">
-                            <i class="now-ui-icons ui-1_email-85"></i>
+                            <i class="now-ui-icons ui-1_send"></i>
                         </button>
                     </form>
                 </div>
