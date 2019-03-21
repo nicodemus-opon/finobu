@@ -29,7 +29,7 @@ include('./../includes/navbar.php');
                     </form>
                 </div>
             </div>
-            <div class="col-lg-5 " style="background-image: url('../assets/marginalia/marginalia-come-back-later.png');background-size: cover;background-position: center">
+            <div class="col-lg-5 " style="background-image: url('../assets/marginalia/marginalia-coming-soon.png');background-size: cover;background-position: center">
 
 
             </div>
