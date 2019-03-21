@@ -13,7 +13,7 @@ include('./../includes/navbar.php');
                     <h1>Finobu Beta Program</h1>
                     <p> Our products are not currently available but feel free to join our beta programme and become an
                         essential part of the process</p>
-                    <form action="https://formcarry.com/s/6gcBZ-xXKrN" method="POST" accept-charset="UTF-8">
+                    <form >
                         <div class="input-group mb-3">
                             <div class="input-group-prepend">
                                 <span class="input-group-text" id="basic-addon3"><i
@@ -25,9 +25,9 @@ include('./../includes/navbar.php');
                         </div>
                         <input class="btn-primary btn btn-block" type="submit" value="Join Beta">
                     </form>
-                    <form class="form form-newsletter" method="" action="">
+                    <form class="form form-newsletter" action="https://formcarry.com/s/6gcBZ-xXKrN" method="POST" accept-charset="UTF-8">
                         <div class="form-group">
-                            <input type="email" class="form-control" placeholder="Your Email...">
+                            <input type="email" class="form-control" placeholder="Your good email...">
                         </div>
 
                         <button type="submit" class="btn btn-primary btn-icon btn-round" name="button">
