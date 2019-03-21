@@ -11,18 +11,18 @@
             <div class="col-md-6">
                 <div class="card card-plain card-form-horizontal">
                     <div class="card-body">
-                        <form method="" action="">
+                        <form action="https://formcarry.com/s/6gcBZ-xXKrN" method="POST" accept-charset="UTF-8">
                             <div class="row">
                                 <div class="col-sm-8">
                                     <div class="input-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="now-ui-icons ui-1_email-85"></i></span>
                                         </div>
-                                        <input type="text" class="form-control" placeholder="Your Good Email ">
+                                        <input type="email" class="form-control" placeholder="Your Good Email ">
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
-                                    <button type="button" class="btn btn-primary btn-round btn-block">Join Beta</button>
+                                    <button type="submit" class="btn btn-primary btn-round btn-block">Join Beta</button>
                                 </div>
                             </div>
                         </form>
