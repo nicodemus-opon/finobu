@@ -13,7 +13,7 @@ include('./../includes/navbar.php');
                     <p> the ultimate all in one tool for freelancers built by freelacers</p>
 
                     <div class="input-group mb-3">
-                        <a class="btn btn-primary btn-neutrali" role="button" href="./beta">Join Beta</a>
+                        <a class="btn btn-primary btn-neutrali" role="button" href="../beta">Join Beta</a>
                     </div>
                 </div>
             </div>
