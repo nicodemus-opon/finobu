@@ -2,9 +2,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h4 class="title mt-0">Get Tips &amp; Tricks every Week!</h4>
+                <h4 class="title mt-0">Like what you see, Join Us!</h4>
                 <p class="description">
-                    Join our newsletter and get news in your inbox every week! We hate spam too, so no worries about this.
+                    Our products are not currently available but feel free to join our beta programme and become an
+                    essential part of the process
                 </p>
             </div>
             <div class="col-md-6">
