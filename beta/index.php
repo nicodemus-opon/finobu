@@ -27,7 +27,7 @@ include('./../includes/navbar.php');
                     </form>
                 </div>
             </div>
-            <div class="col-lg-6 " style="background-image: url('../assets/marginalia/marginalia-coming-soon.png');background-size: contain;background-position: center">
+            <div class="col-lg-6 " style="background-image: url('../assets/marginalia/marginalia-coming-soon.png');background-size: contain;background-position: center; background-repeat: no-repeat">
 
 
             </div>
