@@ -22,7 +22,7 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
-                                    <button type="button" class="btn btn-primary btn-round btn-block">Subscribe</button>
+                                    <button type="button" class="btn btn-primary btn-round btn-block">Join Beta</button>
                                 </div>
                             </div>
                         </form>
