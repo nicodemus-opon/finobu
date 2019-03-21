@@ -25,6 +25,15 @@ include('./../includes/navbar.php');
                         </div>
                         <input class="btn-primary btn btn-block" type="submit" value="Join Beta">
                     </form>
+                    <form class="form form-newsletter" method="" action="">
+                        <div class="form-group">
+                            <input type="email" class="form-control" placeholder="Your Email...">
+                        </div>
+
+                        <button type="button" class="btn btn-primary btn-icon btn-round" name="button">
+                            <i class="now-ui-icons ui-1_email-85"></i>
+                        </button>
+                    </form>
                 </div>
             </div>
             <div class="col-lg-6 " style="background-image: url('../assets/marginalia/marginalia-coming-soon.png');background-size: contain;background-position: center; background-repeat: no-repeat">
