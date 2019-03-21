@@ -13,10 +13,7 @@ include('./../includes/navbar.php');
                     <p> the ultimate all in one tool for freelancers built by freelacers</p>
                     <label for="basic-url">Your vanity URL</label>
                     <div class="input-group mb-3">
-                        <div class="input-group-prepend">
-                            <span class="input-group-text" id="basic-addon3"><i class="now-ui-icons ui-1_email-85"></i></span>
-                        </div>
-                        <input type="text" class="form-control" id="basic-url" placeholder="Your email address">
+                        <a class="btn btn-primaryi btn-neutral" role="button" href="beta">Join Beta</a>
                     </div>
                 </div>
             </div>
