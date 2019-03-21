@@ -118,7 +118,27 @@
             }
         }
     </style>
-
+    <!-- Start of Magnify Widget Snippet -->
+    <script>
+        (function() {
+            var w = window;
+            var d = document;
+            function l() {
+                var s = d.createElement("script");
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = "https://app.usemagnify.com/widget/431a4eed-de43-4308-9b29-f837799a22c7";
+                var x = d.getElementsByTagName("script")[0];
+                x.parentNode.insertBefore(s, x);
+            }
+            if (w.attachEvent) {
+                w.attachEvent("onload", l);
+            } else {
+                w.addEventListener("load", l, false);
+            }
+        })();
+    </script>
+    <!-- End of Magnify Widget Snippet -->
 </head>
 
 
