@@ -7,10 +7,10 @@ include('./../includes/navbar.php');
 <div class="section">
     <div class="container">
         <div class="row" style="padding-top: 40px;">
-            <div class="col-lg-3 " style="">
+            <div class="col-lg-2 " style="">
 
             </div>
-            <div class="col-md-6">
+            <div class="col-md-5">
                 <div class="jumbotron bg-transparent">
                     <h1>Finobu Beta Program</h1>
                     <p> Our products are not currently available but feel free to join our beta programme and become an
@@ -29,7 +29,8 @@ include('./../includes/navbar.php');
                     </form>
                 </div>
             </div>
-            <div class="col-lg-3 " style="">
+            <div class="col-lg-5 " style="background-image: url('../assets/marginalia/marginalia-come-back-later.png');background-size: cover;background-position: center">
+
 
             </div>
         </div>
