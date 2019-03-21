@@ -30,7 +30,7 @@ include('./../includes/navbar.php');
                             <input type="email" class="form-control" placeholder="Your Email...">
                         </div>
 
-                        <button type="button" class="btn btn-primary btn-icon btn-round" name="button">
+                        <button type="submit" class="btn btn-primary btn-icon btn-round" name="button">
                             <i class="now-ui-icons ui-1_email-85"></i>
                         </button>
                     </form>
