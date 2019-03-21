@@ -9,8 +9,8 @@ include('./../includes/navbar.php');
         <div class="row" style="padding-top: 40px;">
             <div class="col-md-6">
                 <div class="jumbotron bg-transparent">
-                    <h1>Tools to grow your business</h1>
-                    <p> Finobu offers a range of software tools for small and medium enterprises.</p>
+                    <h1>Solo for freelancers</h1>
+                    <p> the ultimate all in one tool for freelancers built by freelacers</p>
                     <label for="basic-url">Your vanity URL</label>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
