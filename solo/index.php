@@ -19,7 +19,7 @@ include('./../includes/navbar.php');
             </div>
             <div class="col-md-6 floto" style="">
                 <img wnidth="760px" hbeight="600px" class="img img-responsive"
-                     src="../assets/img/solo.png"
+                     src="../assets/marginalia-productive-work.png"
                      srci="../assets/img/solo.png">
             </div>
         </div>
