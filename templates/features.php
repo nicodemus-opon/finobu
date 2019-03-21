@@ -34,7 +34,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-7 t-5" style="background-image: url('assets/ill.png');background-size: cover;background-position: center">
+            <div class="col-md-7 t-5" style="background-image: url('../assets/marginalia/marginalia-come-back-later.png');background-size: cover;background-position: center">
 
             </div>
 
