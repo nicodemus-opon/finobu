@@ -20,14 +20,7 @@
     AOS.init();
 
 </script>
-<!--script>
-    $(document).ready(function () {
-        $("nav").removeClass("navbar-transparent ");
-        $("nav").removeAttr("color-on-scroll")
-        $(".ccc").removeClass("btn-neutral ");
-        $(".ccc").addClass("btn-primary");
-    });
-</script-->
+
 <script>
     $("meta[property='og:title']").attr("content", document.title);
     $("meta[property='og:url']").attr("content", location.toString());

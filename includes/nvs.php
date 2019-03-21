@@ -1,7 +1,8 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: nico
- * Date: 2019-03-21
- * Time: 09:53
- */
+<script>
+    $(document).ready(function () {
+        $("nav").removeClass("navbar-transparent ");
+        $("nav").removeAttr("color-on-scroll")
+        $(".ccc").removeClass("btn-neutral ");
+        $(".ccc").addClass("btn-primary");
+    });
+</script>
