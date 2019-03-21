@@ -18,7 +18,7 @@
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="now-ui-icons ui-1_email-85"></i></span>
                                         </div>
-                                        <input type="text" class="form-control" placeholder="Your Email...">
+                                        <input type="text" class="form-control" placeholder="Your Good Email...">
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
