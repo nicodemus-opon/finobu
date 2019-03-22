@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/first.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <state relative-caret-position="-1057">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
@@ -170,18 +170,17 @@
       <workItem from="1551866745613" duration="14564000" />
       <workItem from="1552111429934" duration="3367000" />
       <workItem from="1552658815303" duration="1395000" />
-      <workItem from="1552722101108" duration="21127000" />
+      <workItem from="1552722101108" duration="21361000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92293000" />
+    <option name="totallyTimeSpent" value="92527000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332796" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -194,7 +193,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -472,8 +471,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/first.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="-1057">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />

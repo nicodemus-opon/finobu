@@ -10,13 +10,13 @@
 </style>
 
 
-<div class="page-headerr kk header-filterm" data-parallax="true"
+<div class="page-headerr kk header-filterm"
      style="background-image: url('assets/duot.png');background-position: center;background-size:cover">
     <div class="page-header-imageb" ></div>
     <div class="container ">
         <div class="row">
             <div class="col-md-10 ml-auto mr-auto text-left">
-                <div class="jumbotronm bg-transparent " style="padding-top: 100px">
+                <div class="jumbotronm bg-transparent " style="padding-top: 200px">
                     <h1>Tools to grow your business 3x faster</h1>
                     <h4> Finobu offers a range of software tools for small and medium enterprises <br>
                         to help them grow</h4>
