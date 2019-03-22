@@ -1,17 +1,31 @@
-<div class="page-header header-filterm" data-parallax="true" style="background-image: url('assets/duot.png');background-position: center;background-size:cover">
-    <div class="page-header-imageb" style="background-image: url('assets/img/bg14.jpg');"></div>
+<style>
+    .kk{
+        min-height: 100vh;
+        max-height: 999px;
+        padding: 0;
+        color: #fff;
+        position: relative;
+        overflow: hidden;
+    }
+</style>
+
+
+<div class="page-headerr kk header-filterm" data-parallax="true"
+     style="background-image: url('assets/duot.png');background-position: center;background-size:cover">
+    <div class="page-header-imageb" ></div>
     <div class="container ">
         <div class="row">
             <div class="col-md-10 ml-auto mr-auto text-left">
-                <div class="jumbotron bg-transparent " style="padding-top: 100px">
+                <div class="jumbotronm bg-transparent " style="padding-top: 100px">
                     <h1>Tools to grow your business 3x faster</h1>
                     <h4> Finobu offers a range of software tools for small and medium enterprises <br>
-                    to help them grow</h4>
+                        to help them grow</h4>
                     <h4></h4>
                     <p> Don't just take our word for it...</p>
-                    <p><a class="btn btn-primaryi btn-neutral" role="button" href="beta">Get Started</a> or <b><a class="btn-linkm text-white"
-                                                                                                  href="beta"> sign
-                            in</a></b></p>
+                    <p><a class="btn btn-primaryi btn-neutral" role="button" href="beta">Get Started</a> or <b><a
+                                    class="btn-linkm text-white"
+                                    href="beta"> sign
+                                in</a></b></p>
 
                 </div>
             </div>
@@ -82,9 +96,9 @@
     }
 </style>
 <script>
-    $(function() {
-        $('.scroll-down').click (function() {
-            $('html, body').animate({scrollTop: $('section.ok').offset().top }, 'slow');
+    $(function () {
+        $('.scroll-down').click(function () {
+            $('html, body').animate({scrollTop: $('section.ok').offset().top}, 'slow');
             return false;
         });
     });
