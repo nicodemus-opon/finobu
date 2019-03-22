@@ -1,6 +1,6 @@
 <div class="subscribe-line subscribe-line-white" data-aos="fade-up">
     <div class="container">
-        <div class="row">
+        <div class="row ">
             <div class="col-md-6">
                 <h4 class="title mt-0">Like what you see, Join Us!</h4>
                 <p class="description">

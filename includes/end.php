@@ -15,7 +15,7 @@
 <script src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/js/plugins/nouislider.min.js"></script>
 <script src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/js/plugins/bootstrap-datetimepicker.js"></script>
 <script src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/aos.js"></script>
-<script src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/js/otherr.js"></script>
+<script src="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/assets/js/other.js"></script>
 <script>
     AOS.init();
 

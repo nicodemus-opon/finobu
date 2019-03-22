@@ -42,17 +42,17 @@ include('includes/navbar.php');
     ?-->
 
     <?php
-    include('templates/features.php');
+    include('templates/hits.php');
 
     ?>
     <?php
     include('templates/tools.php');
 
     ?>
-    <?php
+    <!--?php
     include('templates/faq.php');
 
-    ?>
+    ?-->
     <?php
     include('templates/sub.php');
 

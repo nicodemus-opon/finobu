@@ -61,7 +61,7 @@
                         </li>
                         <li>
                             <a href="<?php echo '//' . $_SERVER['SERVER_NAME'] .''?>/careers">
-                                Recruitment
+                                Careers
                             </a>
                         </li>
                         <li>

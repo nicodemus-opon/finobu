@@ -1,11 +1,11 @@
-<div class="section-basico section-about-usi" >
+<div class="section-basic section-about-usi" >
     <div class="containern">
         <div class="cards">
 
             <div class="container" >
-                <div class="title" data-aos="fade-up">
-                    <h3>Our Products
-                    </h3>
+                <div  data-aos="fade-up">
+                    <h2 class="title text-center text-primary">Our Products
+                    </h2>
                 </div>
 
                 <div class="row" data-aos="fade-up">
@@ -22,16 +22,16 @@
                                 <h4 class="card-title">Finobu Solo</h4>
 
                                 <p class="card-description">
-                                    Solo provides invoice,proposals
+                                    the ultimate all in one tool for freelancers built by freelacers
                                 </p>
                                 <div class="card-footer">
-                                    <a href="solo" class="btn btn-primary btn-round"> Get Started</a>
+                                    <a href="solo" class="btn btn-primary  btn-round"> Get Started</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="card card-profile">
+                        <div class="card card-profile ">
                             <div class="card-body">
                                 <div class="card-avatar">
 
@@ -40,10 +40,11 @@
                                 </div>
 
 
-                                <h4 class="card-title">Finobu Jibu</h4>
+                                <h4 class="card-title">Finobu Recruit</h4>
 
-                                <p class="card-description">
-                                   F
+                                <p class="card-description text-black">
+                                   Your search for the best talent for your business
+                                    just ended here
                                 </p>
                                 <div class="card-footer">
                                     <a href="jibu" class="btn btn-primary btn-round"> Get Started</a>
