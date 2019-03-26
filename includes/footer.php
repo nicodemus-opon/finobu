@@ -43,7 +43,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://finobu.frontify.com/d/2kVczDBYnLot/finobu-style-guide" target="_blank">
+                            <a href="https://projects.invisionapp.com/boards/R23TUJSMCJG" target="_blank">
                                 Style Guide
                             </a>
                         </li>
