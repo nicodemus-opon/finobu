@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<!-- font "Avenir W01", Arial, sans-serif -->
 <head>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:site" content="@finobutools"/>
@@ -93,6 +93,18 @@
             g.clearUserCookie=function(){};
         })(window,document,window['_fs_namespace'],'script','user');
     </script>
+
+    <style>
+        ::selection {
+            background: #5E3262; /* WebKit/Blink Browsers */
+            color: white;
+        }
+
+        ::-moz-selection {
+            background: #5E3262; /* Gecko Browsers */
+            color: white;
+        }
+    </style>
 
     <style>
         .flot {

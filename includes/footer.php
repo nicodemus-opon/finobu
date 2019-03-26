@@ -1,4 +1,4 @@
-<footer class="footer footer-white footer-big">
+<footer class="footer footer-white footer-big " style="">
     <div class="container">
 
         <div class="content">

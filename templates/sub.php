@@ -1,9 +1,10 @@
-<div class="subscribe-line subscribe-line-white" data-aos="fade-up">
-    <div class="container">
+
+<div class=" section  subscribe-line subscribe-line-white" data-aos="fade-up" style="">
+    <div class="container poo">
         <div class="row ">
             <div class="col-md-6">
-                <h4 class="title mt-0">Like what you see, Join Us!</h4>
-                <p class="description">
+                <h4 class="title mt-0 text-primary ">Like what you see, Join Us!</h4>
+                <p class="descriptionn">
                     Our products are not currently available but feel free to join our beta programme and become an
                     essential part of the process
                 </p>

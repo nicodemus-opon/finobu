@@ -30,7 +30,7 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink1">
                         <a class="dropdown-item" href="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/solo">
-                            <i class="now-ui-icons objects_diamond"></i>
+                            <i class="now-ui-icons objects_diamond "></i>
                             Solo for freelancers
                         </a>
                         <a class="dropdown-item" href="<?php echo '//' . $_SERVER['SERVER_NAME'] . '' ?>/jibu">

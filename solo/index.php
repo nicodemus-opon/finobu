@@ -17,10 +17,8 @@ include('./../includes/navbar.php');
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 floto" style="">
-                <img wnidth="760px" hbeight="600px" class="img img-responsive"
-                     src="../assets/marginalia-productive-work.png"
-                     srci="../assets/img/solo.png">
+            <div class="col-md-6 floto" style="background-image: url('../assets/marginalia-productive-work.png');background-position: center;background-size: cover">
+
             </div>
         </div>
     </div>

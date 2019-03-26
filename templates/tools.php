@@ -1,4 +1,4 @@
-<div class="section-basic section-about-usi" >
+<div class="section-basic section-about-usi " style="" >
     <div class="containern">
         <div class="cards">
 
@@ -9,13 +9,12 @@
                 </div>
 
                 <div class="row" data-aos="fade-up">
-                    <div class="col-md-6 col-lg-4 ">
-                        <div class="card card-profile">
+                    <div class="col-md-6 col-lg-4 hvr-float  pt-lg-5">
+                        <div class="card card-pricing">
                             <div class="card-body">
-                                <div class="card-avatar">
 
-                                    <img class="imgm img-raisedm" src="assets/img/logo2.png">
-
+                                <div class="icon icon-primary">
+                                    <i class="now-ui-icons objects_planet" ></i>
                                 </div>
 
 
@@ -30,24 +29,23 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card card-profile ">
+                    <div class="col-md-6 col-lg-4 hvr-float pt-lg-5">
+                        <div class="card card-pricing bg-primary text-white">
+
                             <div class="card-body">
-                                <div class="card-avatar">
 
-                                    <img class="imgm img-raisedm" src="assets/img/logo2.png">
 
+                                <div class="icon icon-primary">
+                                    <i class="now-ui-icons objects_spaceship" ></i>
                                 </div>
-
-
                                 <h4 class="card-title">Finobu Recruit</h4>
 
-                                <p class="card-description text-black">
+                                <p class="card-description text-white">
                                    Your search for the best talent for your business
                                     just ended here
                                 </p>
                                 <div class="card-footer">
-                                    <a href="jibu" class="btn btn-primary btn-round"> Get Started</a>
+                                    <a href="jibu" class="btn btn-neutral btn-round"> Get Started</a>
                                 </div>
                             </div>
                         </div>
