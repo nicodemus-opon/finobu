@@ -50,7 +50,7 @@ include('includes/navbar.php');
 
     ?>
     <!--?php
-    include('templates/faq.php'
+    include('templates/faq.php');
 
     ?-->
     <?php
