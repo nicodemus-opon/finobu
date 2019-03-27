@@ -31,7 +31,7 @@
             </div>
         </div>
     </div>
-    <a href="#" class="scroll-down" address="true"></a>
+    <a href="#offer" id="offer" class="scroll-down" address="true"></a>
 </div>
 
 <style>

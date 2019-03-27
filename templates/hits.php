@@ -1,4 +1,4 @@
-<div class="sectioni section-about-usi">
+<div class="sectioni section-about-usi" >
 
     <div class="container">
         <h2 class="title text-primary text-center">What do we offer you</h2>
